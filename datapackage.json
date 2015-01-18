@@ -1,8 +1,8 @@
 {
   /* Standard Data Package format. For more info see: http://dataprotocols.org/data-packages/ */
-  "name" : "hk-govt-land-auctions",
-  "title" : "Hong Kong Government Land Auction results",
-  "description" : "A list of results of Hong Kong Government land auction results",
+  "name" : "hk-govt-land-sales",
+  "title" : "Hong Kong Government Land Sales",
+  "description" : "A dataset of Hong Kong Government land sales",
   "licenses" : [],
   "sources" : [
     {
@@ -12,8 +12,8 @@
   ],
   "resources": [
     {
-      "url" : "https://raw.github.com/mikehiggins/hk-govt-land-auctions/master/data/auction-results.json",
-      "path" : "data/auction-results.json",
+      "url" : "https://raw.github.com/mikehiggins/hk-govt-land-sales/master/data/land-sales.json",
+      "path" : "data/land-sales.json",
       "format" : "json",
       "contributors":[ {
         "name": "Mike Higgins",
@@ -23,7 +23,7 @@
         "fields": [
           {
             "name": "date",
-            "description": "The date of the Sale or Tender Award",
+            "description": "The date of the land sale",
             "type": "date"
           },
           {
@@ -58,7 +58,7 @@
           },
           {
             "name": "purchaser",
-            "description": "The purchaser of the land after the sale or auction",
+            "description": "The purchaser of the land after the land sale or auction",
             "type": "string"
           }
         ]
