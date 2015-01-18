@@ -1,0 +1,68 @@
+{
+  /* Standard Data Package format. For more info see: http://dataprotocols.org/data-packages/ */
+  "name" : "hk-govt-land-auctions",
+  "title" : "Hong Kong Government Land Auction results",
+  "description" : "A list of results of Hong Kong Government land auction results",
+  "licenses" : [],
+  "sources" : [
+    {
+      "name" : "Lands Department - The Government of the Hong Kong SAR",
+      "web" : "http://www.landsd.gov.hk/"
+    }
+  ],
+  "resources": [
+    {
+      "url" : "https://raw.github.com/mikehiggins/hk-govt-land-auctions/master/data/auction-results.json",
+      "path" : "data/auction-results.json",
+      "format" : "json",
+      "contributors":[ {
+        "name": "Mike Higgins",
+        "email": "mike<at>higgins.hk"
+      }],
+      "schema": {
+        "fields": [
+          {
+            "name": "date",
+            "description": "The date of the Sale or Tender Award",
+            "type": "date"
+          },
+          {
+            "name": "disposal_type",
+            "description": "The method of disposal",
+            "type": "string"
+          },
+          {
+            "name": "lot_no",
+            "description": "The lot number of the subject property or land parcel",
+            "type": "string"
+          },
+          {
+            "name": "address",
+            "description": "Address or lot location description",
+            "type": "string"
+          },
+          {
+            "name": "user",
+            "description": "The allowed or permitted land use",
+            "type": "string"
+          },
+          {
+            "name": "area_sqm",
+            "description": "The land area in square metres (sqm)",
+            "type": "number"
+          },
+          {
+            "name": "premium",
+            "description": "The premium paid in Hong Kong Dollars (HKD)",
+            "type": "number"
+          },
+          {
+            "name": "purchaser",
+            "description": "The purchaser of the land after the sale or auction",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

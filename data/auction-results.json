@@ -1,0 +1,9272 @@
+[
+  {
+    "date": "1985-04-18",
+    "disposal_type": "AUC",
+    "premium": "12100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 275",
+        "address": "SHATIN AREA 14B",
+        "user": "IG",
+        "area_sqm": "4915.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-04-18",
+    "disposal_type": "AUC",
+    "premium": "701280000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8571",
+        "address": "QUEENSWAY (V.B.PACK NO.1)",
+        "user": "C/R",
+        "area_sqm": "10690.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-04-18",
+    "disposal_type": "AUC",
+    "premium": "45500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 194",
+        "address": "SHATIN AREA 41A",
+        "user": "R3",
+        "area_sqm": "11710.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-04-18",
+    "disposal_type": "AUC",
+    "premium": "27000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 225",
+        "address": "SHATIN AREA 41A",
+        "user": "R3",
+        "area_sqm": "9515.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-04-18",
+    "disposal_type": "AUC",
+    "premium": "1800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 252",
+        "address": "SHATIN AREA 41A",
+        "user": "R4",
+        "area_sqm": "960.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-05-20",
+    "disposal_type": "AUC",
+    "premium": "302000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8633",
+        "address": "HARBOUR RD, WANCHAI",
+        "user": "C",
+        "area_sqm": "3429.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-05-20",
+    "disposal_type": "AUC",
+    "premium": "25500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8678",
+        "address": "SAI NING ST, KENNEDY TOWN",
+        "user": "C/R",
+        "area_sqm": "680.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-05-20",
+    "disposal_type": "AUC",
+    "premium": "9000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8621",
+        "address": "SAI NING ST, KENNEDY TOWN",
+        "user": "IG",
+        "area_sqm": "500.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-05-20",
+    "disposal_type": "AUC",
+    "premium": "51000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8628",
+        "address": "MOORSOM RD",
+        "user": "R3",
+        "area_sqm": "2243.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-05-20",
+    "disposal_type": "AUC",
+    "premium": "9200000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 247",
+        "address": "SHATIN AREA 14B",
+        "user": "IG",
+        "area_sqm": "3371.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-05-20",
+    "disposal_type": "AUC",
+    "premium": "138000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 279",
+        "address": "SHATIN AREA 41A",
+        "user": "R3",
+        "area_sqm": "39440.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-09-24",
+    "disposal_type": "AUC",
+    "premium": "14900000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 5972",
+        "address": "KOWLOON BAY",
+        "user": "IG",
+        "area_sqm": "1496.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-09-24",
+    "disposal_type": "AUC",
+    "premium": "2800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6012",
+        "address": "21 POPLAR ST",
+        "user": "C/R",
+        "area_sqm": "115.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-09-24",
+    "disposal_type": "AUC",
+    "premium": "1600000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 10751",
+        "address": "121 TAI NAM ST",
+        "user": "C/R",
+        "area_sqm": "83.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-09-24",
+    "disposal_type": "AUC",
+    "premium": "7100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 124",
+        "address": "KUT SHING ST/CHEUNG LEE ST",
+        "user": "IG",
+        "area_sqm": "673.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-09-24",
+    "disposal_type": "AUC",
+    "premium": "500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "SOIL 95",
+        "address": "SHEK O",
+        "user": "R1",
+        "area_sqm": "91.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-09-24",
+    "disposal_type": "AUC",
+    "premium": "30000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 235",
+        "address": "TUEN MUN AREA 11",
+        "user": "C/R",
+        "area_sqm": "3552.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-10-24",
+    "disposal_type": "AUC",
+    "premium": "636000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 10722",
+        "address": "CANTON RD/PEKING RD",
+        "user": "C/R",
+        "area_sqm": "6449.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-11-19",
+    "disposal_type": "AUC",
+    "premium": "12500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 126",
+        "address": "KA YIP ST, CHAI WAN",
+        "user": "IG",
+        "area_sqm": "1400.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-12-12",
+    "disposal_type": "AUC",
+    "premium": "14700000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 128",
+        "address": "KUT SHING ST/CHEUNG LEE ST",
+        "user": "I",
+        "area_sqm": "1521.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-12-12",
+    "disposal_type": "AUC",
+    "premium": "55000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8634",
+        "address": "3-5 KENNEDY RD",
+        "user": "R1",
+        "area_sqm": "801.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-12-12",
+    "disposal_type": "AUC",
+    "premium": "199000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8638",
+        "address": "22 ALBANY RD",
+        "user": "R2",
+        "area_sqm": "3877.00"
+      }
+    ]
+  },
+  {
+    "date": "1985-12-12",
+    "disposal_type": "AUC",
+    "premium": "7000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TYTL 92",
+        "address": "TSING YI AREA 6",
+        "user": "IG",
+        "area_sqm": "2554.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-1-6",
+    "disposal_type": "TEN",
+    "premium": "102680000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 281",
+        "address": "TUEN MUN AREA 10A",
+        "user": "R1",
+        "area_sqm": "7918.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-1-10",
+    "disposal_type": "TEN",
+    "premium": "1000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 51",
+        "address": "YIM TIN TSAI AREA 27",
+        "user": "I",
+        "area_sqm": "1805.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-01-23",
+    "disposal_type": "AUC",
+    "premium": "60000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1078",
+        "address": "SOUTH BAY RD, REPULSE BAY",
+        "user": "R3",
+        "area_sqm": "3650.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-01-23",
+    "disposal_type": "AUC",
+    "premium": "14300000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 384",
+        "address": "TAI LIN PAI RD",
+        "user": "IG",
+        "area_sqm": "1670.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-01-23",
+    "disposal_type": "AUC",
+    "premium": "36000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 261",
+        "address": "SHATIN AREA 14B",
+        "user": "IG",
+        "area_sqm": "13350.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-01-23",
+    "disposal_type": "AUC",
+    "premium": "6100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "Lot 1002 in DD 215",
+        "address": "SAI KUNG, TUI MIN HOI",
+        "user": "I",
+        "area_sqm": "3231.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-2-12",
+    "disposal_type": "TEN",
+    "premium": "36200000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 445",
+        "address": "CASTLE PEAK RD",
+        "user": "PFS",
+        "area_sqm": "1971.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-2-12",
+    "disposal_type": "TEN",
+    "premium": "35400000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "Lot 2011 in DD 121",
+        "address": "FUI SHA WAI",
+        "user": "PFS",
+        "area_sqm": "2242.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-2-12",
+    "disposal_type": "TEN",
+    "premium": "2500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 49",
+        "address": "YIM TIN TSAI, AREA 27",
+        "user": "PFS",
+        "area_sqm": "670.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-02-13",
+    "disposal_type": "TEN",
+    "premium": "31000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 10749",
+        "address": "BEECH ST, TAI KOK TSUI",
+        "user": "MCP",
+        "area_sqm": "4200.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-02-14",
+    "disposal_type": "LAB",
+    "premium": "15000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 193",
+        "address": "TOWN CENTRE",
+        "user": "C/R",
+        "area_sqm": "5893.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-02-14",
+    "disposal_type": "LAB",
+    "premium": "8520000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 247",
+        "address": "AREA 4A",
+        "user": "R1",
+        "area_sqm": "8802.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-02-14",
+    "disposal_type": "LAB",
+    "premium": "610000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 430",
+        "address": "GL CASTLE PEAK RD",
+        "user": "C/R",
+        "area_sqm": "168.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-02-14",
+    "disposal_type": "LAB",
+    "premium": "540000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 431",
+        "address": "GL CASTLE PEAK RD",
+        "user": "C/R",
+        "area_sqm": "218.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-02-14",
+    "disposal_type": "LAB",
+    "premium": "1100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 440",
+        "address": "OFF TAI TONG RD, YUEN LONG",
+        "user": "C/R",
+        "area_sqm": "562.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-02-14",
+    "disposal_type": "LAB",
+    "premium": "100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 432",
+        "address": "FUNG YAU ST N, YUEN LONG",
+        "user": "R1",
+        "area_sqm": "2320.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-02-15",
+    "disposal_type": "LAB",
+    "premium": "9960000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TWTL 301",
+        "address": "CASTLE PEAK RD, NEAR HOI PA",
+        "user": "C/R",
+        "area_sqm": "4500.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-02-24",
+    "disposal_type": "LAB",
+    "premium": "2500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 288",
+        "address": "TSING SIN ST",
+        "user": "R1",
+        "area_sqm": "1932.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-02-26",
+    "disposal_type": "AUC",
+    "premium": "42000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 10874",
+        "address": "94-96 WATERLOO RD",
+        "user": "R2",
+        "area_sqm": "1635.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-3-3",
+    "disposal_type": "LAB",
+    "premium": "100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TWTL 302",
+        "address": "SAI LAU KOK RD, TSUEN WAN",
+        "user": "IG",
+        "area_sqm": "1685.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-3-3",
+    "disposal_type": "TEN",
+    "premium": "29200000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 442",
+        "address": "J/O FAU TSOI ST/HOP CHOI ST",
+        "user": "C/R",
+        "area_sqm": "4574.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-03-21",
+    "disposal_type": "TEN",
+    "premium": "37100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "Lot 2013 in DD121",
+        "address": "TONG YAN SAN TSUEN",
+        "user": "PFS",
+        "area_sqm": "1708.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-03-26",
+    "disposal_type": "TEN",
+    "premium": "68800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 5955",
+        "address": "CHEUNG SHA WAN RD",
+        "user": "MCP",
+        "area_sqm": "6675.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-05-16",
+    "disposal_type": "TEN",
+    "premium": "12000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 256",
+        "address": "GL NEAR CITY ONE, SHA TIN",
+        "user": "OU",
+        "area_sqm": "7709.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-05-27",
+    "disposal_type": "AUC",
+    "premium": "1005000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8582",
+        "address": "OFF SUPREME COURT RD",
+        "user": "C/R",
+        "area_sqm": "16150.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-06-26",
+    "disposal_type": "AUC",
+    "premium": "57000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KTIL 715",
+        "address": "KUNG LOK RD, KWUN TONG",
+        "user": "R2",
+        "area_sqm": "2781.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-06-26",
+    "disposal_type": "AUC",
+    "premium": "3200000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "SIL 798",
+        "address": "382-384 SHAUKIWAN RD",
+        "user": "C/R",
+        "area_sqm": "121.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-06-26",
+    "disposal_type": "AUC",
+    "premium": "13000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8642",
+        "address": "SAI NING ST. ADJ IL 8621",
+        "user": "I",
+        "area_sqm": "1020.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-7-7",
+    "disposal_type": "LAB",
+    "premium": "171750000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TWTL 306",
+        "address": "WAI TSUEN RD, TSUEN WAN",
+        "user": "R1",
+        "area_sqm": "3750.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-7-7",
+    "disposal_type": "LAB",
+    "premium": "23570000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 242",
+        "address": "GL NEAR TAI HING ESTATE",
+        "user": "R1",
+        "area_sqm": "10080.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-7-8",
+    "disposal_type": "LAB",
+    "premium": "1870000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 435",
+        "address": "J/O YAU SAN ST/FAU TSOI ST",
+        "user": "C/R",
+        "area_sqm": "1080.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-07-15",
+    "disposal_type": "LAB",
+    "premium": "10010000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 433",
+        "address": "CASTLE PEAK RD",
+        "user": "R1",
+        "area_sqm": "1434.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-07-29",
+    "disposal_type": "TEN",
+    "premium": "1160000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1760 in CHEUNG CHAU",
+        "address": "PAK SHE, CHEUNG CHAU",
+        "user": "V",
+        "area_sqm": "260.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-07-29",
+    "disposal_type": "TEN",
+    "premium": "1440000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1761 in CHEUNG CHAU",
+        "address": "PAK SHE, CHEUNG CHAU",
+        "user": "V",
+        "area_sqm": "260.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-9-9",
+    "disposal_type": "LAB",
+    "premium": "12340000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 293",
+        "address": "TAI CHUNG KIU RD",
+        "user": "R2",
+        "area_sqm": "5598.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-9-9",
+    "disposal_type": "LAB",
+    "premium": "12850000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 300",
+        "address": "AREA 37B",
+        "user": "R1",
+        "area_sqm": "6849.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-9-9",
+    "disposal_type": "LAB",
+    "premium": "1260000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 436",
+        "address": "YAU SAN ST, YUEN LONG",
+        "user": "C/R",
+        "area_sqm": "412.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-9-9",
+    "disposal_type": "LAB",
+    "premium": "1430000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 437",
+        "address": "YAU SAN ST, YUEN LONG",
+        "user": "C/R",
+        "area_sqm": "710.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-9-9",
+    "disposal_type": "LAB",
+    "premium": "1860000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 438",
+        "address": "YAU SAN ST, YUEN LONG",
+        "user": "C/R",
+        "area_sqm": "760.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-09-26",
+    "disposal_type": "AUC",
+    "premium": "31000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 10796",
+        "address": "165 ARGYLE ST",
+        "user": "R2",
+        "area_sqm": "1532.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-09-26",
+    "disposal_type": "AUC",
+    "premium": "83000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 10795",
+        "address": "2 FORFAR RD",
+        "user": "R2",
+        "area_sqm": "3223.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-09-26",
+    "disposal_type": "AUC",
+    "premium": "3200000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "SIL 799",
+        "address": "352-354 SHAUKIWAN RD",
+        "user": "C/R",
+        "area_sqm": "123.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-09-30",
+    "disposal_type": "LAB",
+    "premium": "56240000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 5317 in DD 51",
+        "address": "NEAR KCR STATION, FANLING",
+        "user": "R1",
+        "area_sqm": "22810.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-10-11",
+    "disposal_type": "TEN",
+    "premium": "172890000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "JBTL 6",
+        "address": "AREA 4 JUNK BAY",
+        "user": "PSPS",
+        "area_sqm": "22930.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-10-29",
+    "disposal_type": "AUC",
+    "premium": "6000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 5346 in DD 51",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "2029.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-10-29",
+    "disposal_type": "AUC",
+    "premium": "5000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 5347 in DD 51",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "1690.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-10-29",
+    "disposal_type": "AUC",
+    "premium": "65000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8653",
+        "address": "530-540 LOCKHART RD",
+        "user": "C/R",
+        "area_sqm": "506.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-10-29",
+    "disposal_type": "AUC",
+    "premium": "39000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8682",
+        "address": "SAI NING ST ADJ. TO IL 8678",
+        "user": "C/R",
+        "area_sqm": "736.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-10-29",
+    "disposal_type": "AUC",
+    "premium": "34000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8658",
+        "address": "497-499 HENNESSY RD",
+        "user": "C/R",
+        "area_sqm": "197.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-11-19",
+    "disposal_type": "AUC",
+    "premium": "645000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8656",
+        "address": "TIN HAU TEMPLE RD",
+        "user": "R2",
+        "area_sqm": "15380.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-11-19",
+    "disposal_type": "AUC",
+    "premium": "16100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "SIL 800",
+        "address": "20 NAM ON ST",
+        "user": "C/R",
+        "area_sqm": "322.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-11-19",
+    "disposal_type": "AUC",
+    "premium": "3100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8681",
+        "address": "34 NEW MARKET ST",
+        "user": "C/R",
+        "area_sqm": "133.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-3-12",
+    "disposal_type": "TEN",
+    "premium": "551000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6023",
+        "address": "CHUK YUEN WEST",
+        "user": "PSPS",
+        "area_sqm": "55760.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-8-12",
+    "disposal_type": "LAB",
+    "premium": "8180000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 268",
+        "address": "TOWN CENTRE",
+        "user": "C/R",
+        "area_sqm": "3450.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-8-12",
+    "disposal_type": "LAB",
+    "premium": "21780000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 59",
+        "address": "PLOVER COVE RD",
+        "user": "C/R",
+        "area_sqm": "7804.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-8-12",
+    "disposal_type": "LAB",
+    "premium": "3520000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 302",
+        "address": "AREA 10B",
+        "user": "R1",
+        "area_sqm": "2000.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-8-12",
+    "disposal_type": "LAB",
+    "premium": "1290000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 439",
+        "address": "YAU SAN ST",
+        "user": "C/R",
+        "area_sqm": "252.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-8-12",
+    "disposal_type": "LAB",
+    "premium": "1800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 441",
+        "address": "SHUI CHE KWUN ST",
+        "user": "C/R",
+        "area_sqm": "1120.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-8-12",
+    "disposal_type": "LAB",
+    "premium": "2350000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 452",
+        "address": "SHUI CHE KWUN ST",
+        "user": "C/R",
+        "area_sqm": "824.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-8-12",
+    "disposal_type": "LAB",
+    "premium": "1650000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 454",
+        "address": "TAI CHEUNG ST, YUEN LONG",
+        "user": "C/R",
+        "area_sqm": "1023.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-12-18",
+    "disposal_type": "AUC",
+    "premium": "51500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 132",
+        "address": "CHAI WAN RECLAMATION",
+        "user": "I",
+        "area_sqm": "3000.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-12-18",
+    "disposal_type": "AUC",
+    "premium": "17500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8655",
+        "address": "258-262 DES VOEUX RD CENTRAL",
+        "user": "C/R",
+        "area_sqm": "210.00"
+      }
+    ]
+  },
+  {
+    "date": "1986-12-18",
+    "disposal_type": "AUC",
+    "premium": "6800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8657",
+        "address": "108-110 DES VOEUX RD WEST",
+        "user": "C/R",
+        "area_sqm": "113.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-01-20",
+    "disposal_type": "TEN",
+    "premium": "210000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 246",
+        "address": "GL NEAR TMGLA 105",
+        "user": "PSPS",
+        "area_sqm": "22240.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-2-6",
+    "disposal_type": "TEN",
+    "premium": "1740000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1772 in CHEUNG CHAU",
+        "address": "PACKAGE 4, CHEUNG CHAU",
+        "user": "V",
+        "area_sqm": "190.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-2-6",
+    "disposal_type": "TEN",
+    "premium": "1200000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1773 in CHEUNG CHAU",
+        "address": "PACKAGE 4, CHEUNG CHAU",
+        "user": "V",
+        "area_sqm": "125.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-02-26",
+    "disposal_type": "AUC",
+    "premium": "3500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1008 in DD 215",
+        "address": "TUI MIN HOI",
+        "user": "I",
+        "area_sqm": "1094.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-02-26",
+    "disposal_type": "AUC",
+    "premium": "41000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 273",
+        "address": "SIU LEK YUEN RD",
+        "user": "I",
+        "area_sqm": "5600.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-3-10",
+    "disposal_type": "TEN",
+    "premium": "172800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 289",
+        "address": "TAI WAI",
+        "user": "PSPS",
+        "area_sqm": "8666.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-03-13",
+    "disposal_type": "LAB",
+    "premium": "7560000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 277",
+        "address": "TOWN CENTRE",
+        "user": "C/R",
+        "area_sqm": "2676.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-03-16",
+    "disposal_type": "LAB",
+    "premium": "2550000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1007 in DD 215",
+        "address": "SAI KUNG TOWN",
+        "user": "C/R",
+        "area_sqm": "2059.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-03-16",
+    "disposal_type": "LAB",
+    "premium": "13710000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 434",
+        "address": "FUNG CHEUNG ST.",
+        "user": "R1",
+        "area_sqm": "1596.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-03-16",
+    "disposal_type": "LAB",
+    "premium": "510000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 453",
+        "address": "KUK TING ST/TAI CHEUNG ST",
+        "user": "C/R",
+        "area_sqm": "355.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-03-16",
+    "disposal_type": "LAB",
+    "premium": "2380000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 446",
+        "address": "ON HONG RD YUEN LONG",
+        "user": "C/R",
+        "area_sqm": "680.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-03-16",
+    "disposal_type": "LAB",
+    "premium": "21580000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 398",
+        "address": "KWAI FOO RD & KWAI YAN RD",
+        "user": "C/R",
+        "area_sqm": "7890.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-03-23",
+    "disposal_type": "AUC",
+    "premium": "125000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6036",
+        "address": "KOWLOON BAY",
+        "user": "I",
+        "area_sqm": "5487.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-03-23",
+    "disposal_type": "AUC",
+    "premium": "20400000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1197 in DD 253",
+        "address": "RAZOR HILL",
+        "user": "R3",
+        "area_sqm": "3800.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-03-23",
+    "disposal_type": "AUC",
+    "premium": "70000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 131",
+        "address": "CHAI WAN RECLAMATION",
+        "user": "I",
+        "area_sqm": "3000.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-03-23",
+    "disposal_type": "AUC",
+    "premium": "27500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8651",
+        "address": "185 WANCHAI RD",
+        "user": "C/R",
+        "area_sqm": "444.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-05-29",
+    "disposal_type": "AUC",
+    "premium": "83000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 134",
+        "address": "OFF SUN YIP ST, CHAI WAN",
+        "user": "I",
+        "area_sqm": "3200.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-05-29",
+    "disposal_type": "AUC",
+    "premium": "45000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8687",
+        "address": "KING'S RD, NORTH POINT",
+        "user": "I",
+        "area_sqm": "1057.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-05-29",
+    "disposal_type": "AUC",
+    "premium": "840000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8667",
+        "address": "DES VOEUX RD CENTRAL",
+        "user": "C",
+        "area_sqm": "2098.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-06-24",
+    "disposal_type": "AUC",
+    "premium": "169000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6040",
+        "address": "FUNG SHING ST",
+        "user": "R2",
+        "area_sqm": "5600.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-06-24",
+    "disposal_type": "AUC",
+    "premium": "24000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 282",
+        "address": "YUEN SHUN CIRCUIT",
+        "user": "I",
+        "area_sqm": "1776.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-07-13",
+    "disposal_type": "LAB",
+    "premium": "27860000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 294",
+        "address": "TAI CHUNG KIU RD",
+        "user": "R2",
+        "area_sqm": "8100.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-07-13",
+    "disposal_type": "LAB",
+    "premium": "18390000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 25",
+        "address": "TAI PO OLD MARKET",
+        "user": "R1",
+        "area_sqm": "4270.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-07-13",
+    "disposal_type": "LAB",
+    "premium": "32470000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 292",
+        "address": "TSING YUNG ST",
+        "user": "R2",
+        "area_sqm": "7813.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-07-27",
+    "disposal_type": "AUC",
+    "premium": "10300000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 37 (LOT 5349 in DD 51)",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "947.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-07-27",
+    "disposal_type": "AUC",
+    "premium": "77000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8690",
+        "address": "TAI HANG DRIVE",
+        "user": "R2",
+        "area_sqm": "1568.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-08-18",
+    "disposal_type": "TEN",
+    "premium": "1090000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1775 in CHEUNG CHAU",
+        "address": "PAK SHE, CHEUNG CHAU",
+        "user": "I",
+        "area_sqm": "435.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-08-25",
+    "disposal_type": "TEN",
+    "premium": "3060000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1774 in CHEUNG CHAU",
+        "address": "PACKAGE 4, CHEUNG CHAU",
+        "user": "V",
+        "area_sqm": "300.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-08-28",
+    "disposal_type": "TEN",
+    "premium": "326800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 313",
+        "address": "TIN SAM ST",
+        "user": "PSPS",
+        "area_sqm": "19490.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-09-28",
+    "disposal_type": "AUC",
+    "premium": "12100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "StIL 83",
+        "address": "STANLEY MAIN ST",
+        "user": "C/R",
+        "area_sqm": "150.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-09-28",
+    "disposal_type": "AUC",
+    "premium": "53000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1088",
+        "address": "5 MT KELLETT RD",
+        "user": "R3",
+        "area_sqm": "5952.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-10-26",
+    "disposal_type": "AUC",
+    "premium": "168000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6043",
+        "address": "HING WAH ST",
+        "user": "C/R",
+        "area_sqm": "4323.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-10-26",
+    "disposal_type": "AUC",
+    "premium": "8700000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL14 (LOT 5334 in DD 51)",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "1100.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-10-26",
+    "disposal_type": "AUC",
+    "premium": "500000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8688",
+        "address": "QUEEN'S GRN. OLD PEAK RD",
+        "user": "R2",
+        "area_sqm": "5818.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-10-27",
+    "disposal_type": "TEN",
+    "premium": "2720000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1777 in CHEUNG CHAU",
+        "address": "PACKAGE 3, CHEUNG CHAU",
+        "user": "V",
+        "area_sqm": "260.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-10-27",
+    "disposal_type": "TEN",
+    "premium": "2850000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1778 in CHEUNG CHAU",
+        "address": "PACKAGE 3, CHEUNG CHAU",
+        "user": "V",
+        "area_sqm": "235.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-10-30",
+    "disposal_type": "TEN",
+    "premium": "230200000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 1 (LOT 5388 in DD 51)",
+        "address": "AREA 6B, SHEK WU HUI",
+        "user": "PSPS",
+        "area_sqm": "20900.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-11-27",
+    "disposal_type": "AUC",
+    "premium": "470000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6032",
+        "address": "KOWLOON BAY",
+        "user": "OU",
+        "area_sqm": "22280.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-11-27",
+    "disposal_type": "AUC",
+    "premium": "18500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 30 (LOT 5335 in DD 51)",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "2563.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-11-27",
+    "disposal_type": "AUC",
+    "premium": "53000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 281",
+        "address": "YUEN SHUN CIRCUIT",
+        "user": "I",
+        "area_sqm": "4582.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-11-27",
+    "disposal_type": "AUC",
+    "premium": "265000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 296",
+        "address": "CASTLE PEAK RD.",
+        "user": "R2",
+        "area_sqm": "19460.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-12-8",
+    "disposal_type": "LAB",
+    "premium": "36960000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 302",
+        "address": "TAI CHUNG KIU RD",
+        "user": "R2",
+        "area_sqm": "11110.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-12-8",
+    "disposal_type": "LAB",
+    "premium": "48000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 64",
+        "address": "AREA 6 - KCR STATION",
+        "user": "C/R",
+        "area_sqm": "15220.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-12-9",
+    "disposal_type": "LAB",
+    "premium": "18800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 38",
+        "address": "GL IN SHEUNG SHUI AREA 7A",
+        "user": "C/R",
+        "area_sqm": "6865.00"
+      }
+    ]
+  },
+  {
+    "date": "1987-12-11",
+    "disposal_type": "TEN",
+    "premium": "43800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 3 (LOT 5345 in DD 51)",
+        "address": "ON LOK TSUEN",
+        "user": "PFS",
+        "area_sqm": "938.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-1-4",
+    "disposal_type": "TEN",
+    "premium": "255000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "JBTL 10",
+        "address": "AREA 30/33, JUNK BAY",
+        "user": "PSPS",
+        "area_sqm": "24500.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-01-15",
+    "disposal_type": "AUC",
+    "premium": "8900000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 34 (LOT 5352 in DD 51)",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "1120.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-01-15",
+    "disposal_type": "AUC",
+    "premium": "6500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 991 in DD 215",
+        "address": "TUI MIN HOI",
+        "user": "I",
+        "area_sqm": "1410.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-01-15",
+    "disposal_type": "AUC",
+    "premium": "7600000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1198 in DD 253",
+        "address": "PAK SHEK WO",
+        "user": "R3",
+        "area_sqm": "1900.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-01-15",
+    "disposal_type": "AUC",
+    "premium": "109000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 320",
+        "address": "AREA 40",
+        "user": "I",
+        "area_sqm": "8124.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-02-26",
+    "disposal_type": "LAB",
+    "premium": "15990000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 20",
+        "address": "GL IN SHEUNG SHUI AREA 7A",
+        "user": "C/R",
+        "area_sqm": "5998.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-02-26",
+    "disposal_type": "LAB",
+    "premium": "42280000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 303",
+        "address": "TAI CHUNG KIU RD",
+        "user": "R2",
+        "area_sqm": "11120.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-02-26",
+    "disposal_type": "LAB",
+    "premium": "18550000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 313",
+        "address": "RD 16C",
+        "user": "R1",
+        "area_sqm": "10410.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-3-11",
+    "disposal_type": "TEN",
+    "premium": "2000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1781 in CHEUNG CHAU",
+        "address": "CHUNG HOK RD, CHEUNG CHAU",
+        "user": "V",
+        "area_sqm": "187.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-3-11",
+    "disposal_type": "TEN",
+    "premium": "2560000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1782 in CHEUNG CHAU",
+        "address": "CHUNG HOK RD, CHEUNG CHAU",
+        "user": "V",
+        "area_sqm": "240.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-3-11",
+    "disposal_type": "TEN",
+    "premium": "54800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 74",
+        "address": "AREA 2, TAI PO",
+        "user": "PFS",
+        "area_sqm": "870.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-03-18",
+    "disposal_type": "TEN",
+    "premium": "44000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 321",
+        "address": "AREA 37A",
+        "user": "PFS",
+        "area_sqm": "526.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-03-24",
+    "disposal_type": "AUC",
+    "premium": "27500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 17",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "3372.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-03-24",
+    "disposal_type": "AUC",
+    "premium": "11500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 788 in DD 216",
+        "address": "SHA HA",
+        "user": "R3",
+        "area_sqm": "2601.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-03-24",
+    "disposal_type": "AUC",
+    "premium": "21500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 212",
+        "address": "SUI WO RD",
+        "user": "R4",
+        "area_sqm": "7181.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-03-24",
+    "disposal_type": "AUC",
+    "premium": "213000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 319",
+        "address": "RD 44K, TUEN MUN",
+        "user": "R2",
+        "area_sqm": "13200.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-4-6",
+    "disposal_type": "TEN",
+    "premium": "4390000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCL 7",
+        "address": "CONTAINER PORT, KWAI CHUNG",
+        "user": "OU",
+        "area_sqm": "315000.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-05-30",
+    "disposal_type": "AUC",
+    "premium": "21000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 29 (LOT 5355 in DD 51)",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "1861.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-05-30",
+    "disposal_type": "AUC",
+    "premium": "30000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 316",
+        "address": "AREA 40",
+        "user": "I",
+        "area_sqm": "4953.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-05-30",
+    "disposal_type": "AUC",
+    "premium": "173000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 103",
+        "address": "CHAI WAN RECLAMATION",
+        "user": "I",
+        "area_sqm": "4498.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-06-24",
+    "disposal_type": "TEN",
+    "premium": "420000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1762 in CHEUNG CHAU",
+        "address": "PAK SHE FIRST LANE  CHEUNG CHAU",
+        "user": "I",
+        "area_sqm": "145.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-06-24",
+    "disposal_type": "TEN",
+    "premium": "1630000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1783 in CHEUNG CHAU",
+        "address": "CHUNG HING HOI PONG RD,  CHEUNG CHAU",
+        "user": "V",
+        "area_sqm": "130.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-06-29",
+    "disposal_type": "LAB",
+    "premium": "59570000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 395",
+        "address": "J/O HING FONG RD/KWAI FUK RD",
+        "user": "C/R",
+        "area_sqm": "15800.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-7-4",
+    "disposal_type": "TEN",
+    "premium": "51000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 33 (LOT 2309 in DD 83)",
+        "address": "ON LOK TSUEN",
+        "user": "PFS",
+        "area_sqm": "712.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-07-13",
+    "disposal_type": "AUC",
+    "premium": "16000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 35",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "1198.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-07-13",
+    "disposal_type": "AUC",
+    "premium": "194000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 139",
+        "address": "CHAI WAN RECLAMATION",
+        "user": "I",
+        "area_sqm": "4687.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-8-1",
+    "disposal_type": "TEN",
+    "premium": "960000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 649 in PENG CHAU",
+        "address": "PENG CHAU",
+        "user": "V",
+        "area_sqm": "195.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-8-1",
+    "disposal_type": "TEN",
+    "premium": "1400000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 227 in DD 331 LANTAU",
+        "address": "CHEUNG SHA, LANTAU",
+        "user": "R4",
+        "area_sqm": "1194.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-9-5",
+    "disposal_type": "TEN",
+    "premium": "62000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 85",
+        "address": "AREA 22, TAI PO",
+        "user": "PFS",
+        "area_sqm": "737.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-9-7",
+    "disposal_type": "LAB",
+    "premium": "25250000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 300",
+        "address": "TAI CHUNG KIU RD.",
+        "user": "R2",
+        "area_sqm": "6614.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-09-21",
+    "disposal_type": "AUC",
+    "premium": "142000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6037",
+        "address": "PO ON RD.",
+        "user": "C/R",
+        "area_sqm": "2110.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-09-21",
+    "disposal_type": "AUC",
+    "premium": "30500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 49",
+        "address": "GL IN SHEUNG SHUI AREA 4B",
+        "user": "I",
+        "area_sqm": "2816.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-09-30",
+    "disposal_type": "TEN",
+    "premium": "23000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 811 in DD 110",
+        "address": "KAM TIN RD, KAM TIN",
+        "user": "PFS",
+        "area_sqm": "1100.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-10-28",
+    "disposal_type": "AUC",
+    "premium": "41000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1209 in DD 253",
+        "address": "RAZOR HILL, SAI KUNG, NT",
+        "user": "R3",
+        "area_sqm": "6743.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-10-28",
+    "disposal_type": "AUC",
+    "premium": "220000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 322",
+        "address": "AREA 44",
+        "user": "R2",
+        "area_sqm": "12390.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-11-29",
+    "disposal_type": "AUC",
+    "premium": "420000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KTIL 713",
+        "address": "HOI BUN RD, KWUN TONG",
+        "user": "C",
+        "area_sqm": "4500.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-11-29",
+    "disposal_type": "AUC",
+    "premium": "196000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 10971",
+        "address": "BAILEY ST., HUNG HOM",
+        "user": "R1",
+        "area_sqm": "2472.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-11-29",
+    "disposal_type": "AUC",
+    "premium": "156000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6081",
+        "address": "TAT CHEE AVE DEV AREA IIA",
+        "user": "R2",
+        "area_sqm": "4250.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-11-29",
+    "disposal_type": "AUC",
+    "premium": "30500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 404",
+        "address": "WANG YIP ST WEST,  TUNG TAU INDUSTRIAL AREA",
+        "user": "I",
+        "area_sqm": "1735.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-12-2",
+    "disposal_type": "LAB",
+    "premium": "30860000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 55 in DD 91",
+        "address": "GL IN SHEUNG SHUI AREA 7A",
+        "user": "C/R",
+        "area_sqm": "11070.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-12-2",
+    "disposal_type": "TEN",
+    "premium": "23880000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 812 in DD 110",
+        "address": "KAM TIN RD, KAM TIN",
+        "user": "PFS",
+        "area_sqm": "1300.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-12-7",
+    "disposal_type": "LAB",
+    "premium": "21520000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TWTL 324",
+        "address": "GL AT TAI HO RD",
+        "user": "C/R",
+        "area_sqm": "4804.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-12-22",
+    "disposal_type": "AUC",
+    "premium": "299000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 10972",
+        "address": "194-200 ARGYLE ST",
+        "user": "R2",
+        "area_sqm": "5889.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-12-22",
+    "disposal_type": "AUC",
+    "premium": "218000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6052",
+        "address": "FAT TSEUNG ST",
+        "user": "DGG",
+        "area_sqm": "4728.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-12-22",
+    "disposal_type": "AUC",
+    "premium": "33000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 318",
+        "address": "AREA 40",
+        "user": "I",
+        "area_sqm": "4012.00"
+      }
+    ]
+  },
+  {
+    "date": "1988-12-29",
+    "disposal_type": "TEN",
+    "premium": "106000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "JBTL 11",
+        "address": "AREA 28, JUNK BAY",
+        "user": "PSPS",
+        "area_sqm": "22400.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-01-25",
+    "disposal_type": "AUC",
+    "premium": "33500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 410",
+        "address": "LEUNG YIP ST., TUNG TAU INDUSTRIAL AREA",
+        "user": "I",
+        "area_sqm": "1736.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-01-25",
+    "disposal_type": "AUC",
+    "premium": "3350000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8643",
+        "address": "J/O HARBOUR RD/FLEMING RD",
+        "user": "C",
+        "area_sqm": "7230.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-02-21",
+    "disposal_type": "TEN",
+    "premium": "153800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8694",
+        "address": "GARDEN RD. ADJ. YWCA",
+        "user": "C",
+        "area_sqm": "757.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-02-27",
+    "disposal_type": "AUC",
+    "premium": "450000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 5974",
+        "address": "WAI YIP ST./SHEUNG YUET RD.",
+        "user": "C",
+        "area_sqm": "4121.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-02-27",
+    "disposal_type": "AUC",
+    "premium": "12500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 350",
+        "address": "LOK LAM RD.",
+        "user": "R3",
+        "area_sqm": "1550.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-02-27",
+    "disposal_type": "AUC",
+    "premium": "227000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 297",
+        "address": "CASTLE PEAK RD.",
+        "user": "R2",
+        "area_sqm": "9673.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-03-15",
+    "disposal_type": "LAB",
+    "premium": "46360000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 56 in DD 91",
+        "address": "GL IN SHEUNG SHUI AREA 7A",
+        "user": "C/R",
+        "area_sqm": "7753.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-03-15",
+    "disposal_type": "LAB",
+    "premium": "5850000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 473",
+        "address": "FUNG CHEUNG RD/HOP YICK RD.",
+        "user": "R1",
+        "area_sqm": "670.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-03-16",
+    "disposal_type": "LAB",
+    "premium": "19400000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 65",
+        "address": "TAI PO OLD MARKET",
+        "user": "R1",
+        "area_sqm": "2181.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-03-16",
+    "disposal_type": "LAB",
+    "premium": "5180000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 464",
+        "address": "TAI TONG RD./KAU YUK RD.",
+        "user": "R1",
+        "area_sqm": "2469.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-03-16",
+    "disposal_type": "LAB",
+    "premium": "4340000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 479",
+        "address": "SAU FU ST, YUEN LONG",
+        "user": "C/R",
+        "area_sqm": "1233.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-03-17",
+    "disposal_type": "LAB",
+    "premium": "68470000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 71",
+        "address": "NEAR FANLING RAIL STATION",
+        "user": "C/R",
+        "area_sqm": "12770.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-03-17",
+    "disposal_type": "LAB",
+    "premium": "9260000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 306",
+        "address": "MA ON SHAN",
+        "user": "R1",
+        "area_sqm": "3359.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-03-17",
+    "disposal_type": "LAB",
+    "premium": "137840000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 307",
+        "address": "MA ON SHAN",
+        "user": "C/R",
+        "area_sqm": "27290.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-03-23",
+    "disposal_type": "TEN",
+    "premium": "98000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 71",
+        "address": "AREA 6 - KCR STATION",
+        "user": "PSPS",
+        "area_sqm": "11498.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-03-28",
+    "disposal_type": "AUC",
+    "premium": "220000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6019",
+        "address": "WANG HOI RD./LAM HING ST.",
+        "user": "I",
+        "area_sqm": "2520.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-03-28",
+    "disposal_type": "AUC",
+    "premium": "41000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 48",
+        "address": "GL IN SHEUNG SHUI AREA 4B",
+        "user": "I",
+        "area_sqm": "2881.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-03-28",
+    "disposal_type": "AUC",
+    "premium": "700000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 66",
+        "address": "TAI PO OLD MARKET",
+        "user": "R1",
+        "area_sqm": "22150.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-03-28",
+    "disposal_type": "AUC",
+    "premium": "285000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 405",
+        "address": "TAI WO TSUEN",
+        "user": "R3",
+        "area_sqm": "11100.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-03-30",
+    "disposal_type": "TEN",
+    "premium": "141800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 102",
+        "address": "YIM TIN TSAI",
+        "user": "OU",
+        "area_sqm": "10750.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-05-29",
+    "disposal_type": "AUC",
+    "premium": "86000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 50",
+        "address": "GL IN SHEUNG SHUI AREA 4B",
+        "user": "I",
+        "area_sqm": "5911.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-05-29",
+    "disposal_type": "AUC",
+    "premium": "4600000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 250",
+        "address": "SUI WO RD",
+        "user": "R4",
+        "area_sqm": "960.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-05-29",
+    "disposal_type": "AUC",
+    "premium": "105000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 138",
+        "address": "J/O KA YIP ST/WING TAI RD",
+        "user": "I",
+        "area_sqm": "2412.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-05-30",
+    "disposal_type": "TEN",
+    "premium": "3870000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 647 in PENG CHAU",
+        "address": "PENG CHAU",
+        "user": "I",
+        "area_sqm": "3330.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-06-27",
+    "disposal_type": "TEN",
+    "premium": "1160000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1791 in CHEUNG CHAU",
+        "address": "KIN SAN LANE, CHEUNG CHAU",
+        "user": "V",
+        "area_sqm": "65.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-07-25",
+    "disposal_type": "AUC",
+    "premium": "88000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 52",
+        "address": "FANLING AREA 29A",
+        "user": "R2",
+        "area_sqm": "7330.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-07-25",
+    "disposal_type": "AUC",
+    "premium": "35000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 97",
+        "address": "GL IN AREA 4B SHEUNG SHUI",
+        "user": "I",
+        "area_sqm": "3041.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-07-25",
+    "disposal_type": "AUC",
+    "premium": "10400000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 68",
+        "address": "YIM TIN TSAI",
+        "user": "R3",
+        "area_sqm": "2906.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-07-26",
+    "disposal_type": "TEN",
+    "premium": "2700000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8888",
+        "address": "GARDEN RD",
+        "user": "C",
+        "area_sqm": "8546.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-8-2",
+    "disposal_type": "TEN",
+    "premium": "41000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 326",
+        "address": "SITE 8, MA ON SHAN",
+        "user": "PSPS",
+        "area_sqm": "3951.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-08-17",
+    "disposal_type": "AUC",
+    "premium": "35000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 83",
+        "address": "FANLING AREA 29B",
+        "user": "R3",
+        "area_sqm": "7778.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-08-17",
+    "disposal_type": "AUC",
+    "premium": "15300000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 98",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "1295.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-08-17",
+    "disposal_type": "AUC",
+    "premium": "380000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 323",
+        "address": "AREA 44, TUEN MUN",
+        "user": "R2",
+        "area_sqm": "21090.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-9-11",
+    "disposal_type": "AUC",
+    "premium": "370000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6115",
+        "address": "LAM LOK ST, KOWLOON BAY",
+        "user": "C",
+        "area_sqm": "6300.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-9-11",
+    "disposal_type": "AUC",
+    "premium": "20600000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 100",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "1707.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-9-11",
+    "disposal_type": "AUC",
+    "premium": "188000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 340",
+        "address": "SITE 22, AREA 11, SHA TIN",
+        "user": "I",
+        "area_sqm": "4773.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-10-7",
+    "disposal_type": "LAB",
+    "premium": "26620000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 54",
+        "address": "FANLING AREA 28A",
+        "user": "R1",
+        "area_sqm": "3181.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-10-7",
+    "disposal_type": "LAB",
+    "premium": "24880000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 308",
+        "address": "MA ON SHAN",
+        "user": "R1",
+        "area_sqm": "3039.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-10-7",
+    "disposal_type": "LAB",
+    "premium": "34260000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 333",
+        "address": "AREA 28A, TUEN MUN",
+        "user": "C/R",
+        "area_sqm": "8400.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-10-25",
+    "disposal_type": "AUC",
+    "premium": "200000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 5853",
+        "address": "WAI YIP ST/LAM HING ST",
+        "user": "G",
+        "area_sqm": "3803.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-10-25",
+    "disposal_type": "AUC",
+    "premium": "100000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 51",
+        "address": "FANLING AREA 29A",
+        "user": "R2",
+        "area_sqm": "5915.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-10-25",
+    "disposal_type": "AUC",
+    "premium": "43000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 103",
+        "address": "TING KOK RD",
+        "user": "I",
+        "area_sqm": "1618.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-11-3",
+    "disposal_type": "TEN",
+    "premium": "138100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 338",
+        "address": "AREA 16, TUEN MUN",
+        "user": "PSPS",
+        "area_sqm": "22180.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-11-13",
+    "disposal_type": "TEN",
+    "premium": "1380000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 242 in DD 331 LANTAU",
+        "address": "NEAR MS5 SOUTH LANTAU RD. LANTAU",
+        "user": "R4",
+        "area_sqm": "2580.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-11-17",
+    "disposal_type": "TEN",
+    "premium": "123800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8734",
+        "address": "MOORSOM RD/CHUN FAI RD",
+        "user": "C",
+        "area_sqm": "1900.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-11-28",
+    "disposal_type": "AUC",
+    "premium": "286000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6056",
+        "address": "CARPENTER RD",
+        "user": "C",
+        "area_sqm": "5921.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-11-28",
+    "disposal_type": "AUC",
+    "premium": "37000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 95",
+        "address": "AREA 4B, SHEUNG SHUI",
+        "user": "I",
+        "area_sqm": "3785.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-11-28",
+    "disposal_type": "AUC",
+    "premium": "40000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 81",
+        "address": "OFF TING KOK RD, AREA 8",
+        "user": "I",
+        "area_sqm": "2230.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-12-21",
+    "disposal_type": "TEN",
+    "premium": "328000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 3",
+        "address": "110-116 PEAK RD",
+        "user": "C/R",
+        "area_sqm": "11220.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-12-28",
+    "disposal_type": "AUC",
+    "premium": "1065000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 5983",
+        "address": "TAT CHEE AVE DEV AREA 2B",
+        "user": "R2",
+        "area_sqm": "27300.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-12-28",
+    "disposal_type": "AUC",
+    "premium": "12100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 345 in DD 252",
+        "address": "TAI MONG TSAI, SAI KUNG",
+        "user": "R4",
+        "area_sqm": "3550.00"
+      }
+    ]
+  },
+  {
+    "date": "1989-12-28",
+    "disposal_type": "AUC",
+    "premium": "122000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 357",
+        "address": "SITE 6, AREA 11, SHA TIN",
+        "user": "G",
+        "area_sqm": "3400.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-1-4",
+    "disposal_type": "TEN",
+    "premium": "56880000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TYTL 116",
+        "address": "AREA 1, TSING YI",
+        "user": "PSPS",
+        "area_sqm": "9860.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-01-23",
+    "disposal_type": "AUC",
+    "premium": "238000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 5971",
+        "address": "WAI YIP ST/WANG HOI RD",
+        "user": "C",
+        "area_sqm": "2941.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-01-23",
+    "disposal_type": "AUC",
+    "premium": "200000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "HHIL 545",
+        "address": "GL AT MAN LOK ST",
+        "user": "G",
+        "area_sqm": "5220.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-01-23",
+    "disposal_type": "AUC",
+    "premium": "8000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 783 in DD 216",
+        "address": "SHA HA, SAI KUNG",
+        "user": "R3",
+        "area_sqm": "1282.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-01-23",
+    "disposal_type": "AUC",
+    "premium": "20000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 385",
+        "address": "TUNG TAU INDUSTRIAL AREA",
+        "user": "I",
+        "area_sqm": "2382.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-3-2",
+    "disposal_type": "TEN",
+    "premium": "70000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 94",
+        "address": "NEAR KCR STATION, SHEUNG SHUI",
+        "user": "C",
+        "area_sqm": "5433.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-3-2",
+    "disposal_type": "LAB",
+    "premium": "24570000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 363",
+        "address": "SITE 3, MA ON SHAN TOWN CENTRE",
+        "user": "R1",
+        "area_sqm": "7199.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-3-2",
+    "disposal_type": "LAB",
+    "premium": "72480000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 364",
+        "address": "PAI TAU ST.",
+        "user": "C",
+        "area_sqm": "8463.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-3-2",
+    "disposal_type": "LAB",
+    "premium": "12800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 472",
+        "address": "FUNG CHEUNG ST / FUNG HEUNG ST, YUEN LONG",
+        "user": "R1",
+        "area_sqm": "1000.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-3-9",
+    "disposal_type": "TEN",
+    "premium": "52900000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 57-DD 91",
+        "address": "GL IN SHEUNG SHUI AREA 7A",
+        "user": "PSPS",
+        "area_sqm": "9732.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-3-9",
+    "disposal_type": "TEN",
+    "premium": "73000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 334",
+        "address": "SITE 12, AREA 100",
+        "user": "PSPS",
+        "area_sqm": "5300.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-03-17",
+    "disposal_type": "TEN",
+    "premium": "2680000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 218",
+        "address": "MEI WO CIRCUIT, SHA TIN",
+        "user": "R4",
+        "area_sqm": "949.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-03-23",
+    "disposal_type": "AUC",
+    "premium": "31000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1196 in DD 253",
+        "address": "RAZOR HILL, SAI KUNG",
+        "user": "R3",
+        "area_sqm": "4575.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-03-23",
+    "disposal_type": "AUC",
+    "premium": "10500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 789 in DD 216",
+        "address": "SHA HA, SAI KUNG",
+        "user": "R3",
+        "area_sqm": "1860.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-03-23",
+    "disposal_type": "AUC",
+    "premium": "145000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 327",
+        "address": "SITE 7, AREA 11, SHATIN",
+        "user": "I",
+        "area_sqm": "3380.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-03-23",
+    "disposal_type": "AUC",
+    "premium": "117000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 347",
+        "address": "AREA 2A, TUEN MUN",
+        "user": "R1",
+        "area_sqm": "4949.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-06-22",
+    "disposal_type": "AUC",
+    "premium": "26000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 82",
+        "address": "FANLING AREA 29B",
+        "user": "R3",
+        "area_sqm": "4841.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-06-22",
+    "disposal_type": "AUC",
+    "premium": "201000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 346",
+        "address": "AREA 2A, TUEN MUN",
+        "user": "R1",
+        "area_sqm": "8400.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-06-22",
+    "disposal_type": "AUC",
+    "premium": "130000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8740",
+        "address": "HOI YU ST",
+        "user": "G",
+        "area_sqm": "2900.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-07-18",
+    "disposal_type": "TEN",
+    "premium": "1500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1795 in CHEUNG CHAU",
+        "address": "CHUNG HING SAN ST, CHEUNG CHAU",
+        "user": "V",
+        "area_sqm": "65.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-08-21",
+    "disposal_type": "AUC",
+    "premium": "33000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 46",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "2476.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-08-21",
+    "disposal_type": "AUC",
+    "premium": "169000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 345",
+        "address": "AREA 2A, TUEN MUN",
+        "user": "R1",
+        "area_sqm": "6700.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-09-25",
+    "disposal_type": "AUC",
+    "premium": "10350000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 117",
+        "address": "AREA 4B, SHEUNG SHUI",
+        "user": "I",
+        "area_sqm": "929.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-09-25",
+    "disposal_type": "AUC",
+    "premium": "96000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 373",
+        "address": "ON MUK ST, SHATIN",
+        "user": "G",
+        "area_sqm": "3250.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-10-23",
+    "disposal_type": "AUC",
+    "premium": "155000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 10985",
+        "address": "GL AT SUNG ON ST",
+        "user": "C",
+        "area_sqm": "4971.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-10-23",
+    "disposal_type": "AUC",
+    "premium": "8300000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 236 in DD 229",
+        "address": "CLEARWATER BAY RD, SAI KUNG",
+        "user": "R4",
+        "area_sqm": "1860.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-10-23",
+    "disposal_type": "AUC",
+    "premium": "80000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 328",
+        "address": "SITE 8, AREA 11, SHATIN",
+        "user": "G",
+        "area_sqm": "3050.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-10-30",
+    "disposal_type": "TEN",
+    "premium": "35400000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TYTL 117",
+        "address": "TSING YI RD WEST",
+        "user": "PFS",
+        "area_sqm": "1480.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-10-30",
+    "disposal_type": "TEN",
+    "premium": "42100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TYTL 125",
+        "address": "TSING YI RD WEST",
+        "user": "PFS",
+        "area_sqm": "2110.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-11-19",
+    "disposal_type": "LAB",
+    "premium": "74270000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 381",
+        "address": "AREA 100, MA ON SHAN",
+        "user": "R1",
+        "area_sqm": "12700.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-11-19",
+    "disposal_type": "LAB",
+    "premium": "27070000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 377",
+        "address": "GL NEAR PAK TIN ST",
+        "user": "R2",
+        "area_sqm": "5600.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-11-22",
+    "disposal_type": "AUC",
+    "premium": "280000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6144",
+        "address": "SHAM SHUI PO CAMP",
+        "user": "C",
+        "area_sqm": "7198.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-11-22",
+    "disposal_type": "AUC",
+    "premium": "256000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 53",
+        "address": "FANLING AREA 29A",
+        "user": "R2",
+        "area_sqm": "12670.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-11-22",
+    "disposal_type": "AUC",
+    "premium": "105000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 378",
+        "address": "LOWER SHING MUN BUNGALOWS",
+        "user": "R3",
+        "area_sqm": "16305.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-11-22",
+    "disposal_type": "LAB",
+    "premium": "5570000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 433",
+        "address": "KAU WA KENG",
+        "user": "R1",
+        "area_sqm": "2080.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-12-11",
+    "disposal_type": "AUC",
+    "premium": "184000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6145",
+        "address": "LAM WAH ST",
+        "user": "C",
+        "area_sqm": "5194.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-12-11",
+    "disposal_type": "AUC",
+    "premium": "125000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 372",
+        "address": "ON SUM ST",
+        "user": "I",
+        "area_sqm": "4724.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-12-11",
+    "disposal_type": "AUC",
+    "premium": "197000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 112",
+        "address": "AREA 6, SITE C",
+        "user": "R2",
+        "area_sqm": "9820.00"
+      }
+    ]
+  },
+  {
+    "date": "1990-12-11",
+    "disposal_type": "AUC",
+    "premium": "104000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 144",
+        "address": "ON YIP ST",
+        "user": "I",
+        "area_sqm": "2383.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-1-4",
+    "disposal_type": "TEN",
+    "premium": "540000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 146",
+        "address": "SIU SAI WAN BARRACK",
+        "user": "PSPS",
+        "area_sqm": "32800.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-1-10",
+    "disposal_type": "TEN",
+    "premium": "15500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8799",
+        "address": "SAI WAN HO RECLAMATION",
+        "user": "PFS",
+        "area_sqm": "112.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-1-10",
+    "disposal_type": "TEN",
+    "premium": "11500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8800",
+        "address": "SAI WAN HO RECLAMATION",
+        "user": "PFS",
+        "area_sqm": "112.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-01-18",
+    "disposal_type": "AUC",
+    "premium": "280000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 110",
+        "address": "AREA 6, SITE A",
+        "user": "R2",
+        "area_sqm": "12090.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-01-18",
+    "disposal_type": "AUC",
+    "premium": "147000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TWTL 344",
+        "address": "CHEUNG WING RD",
+        "user": "I",
+        "area_sqm": "15030.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-01-18",
+    "disposal_type": "AUC",
+    "premium": "13200000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8781",
+        "address": "ORMSBY ST, WANCHAI",
+        "user": "R1",
+        "area_sqm": "160.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-2-8",
+    "disposal_type": "LAB",
+    "premium": "9700000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 19",
+        "address": "TSEUNG KWAN O",
+        "user": "R1",
+        "area_sqm": "4850.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-2-8",
+    "disposal_type": "TEN",
+    "premium": "39300000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 380",
+        "address": "SITE 17, YUEN SHUN CIRCUIT",
+        "user": "PFS",
+        "area_sqm": "1200.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-2-11",
+    "disposal_type": "AUC",
+    "premium": "37300000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 45",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "2559.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-2-11",
+    "disposal_type": "LAB",
+    "premium": "308750000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 113",
+        "address": "FANLING AREA 43",
+        "user": "C/R",
+        "area_sqm": "17960.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-2-11",
+    "disposal_type": "AUC",
+    "premium": "14000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1104 in DD 215",
+        "address": "TUI MIN HOI, SAI KUNG",
+        "user": "I",
+        "area_sqm": "2850.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-3-12",
+    "disposal_type": "AUC",
+    "premium": "60000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "APIL 122",
+        "address": "APLEICHAU WEST",
+        "user": "I",
+        "area_sqm": "4500.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-3-12",
+    "disposal_type": "AUC",
+    "premium": "25000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 96",
+        "address": "AREA 4B, SHEUNG SHUI",
+        "user": "I",
+        "area_sqm": "1759.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-3-12",
+    "disposal_type": "AUC",
+    "premium": "94000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 280",
+        "address": "YUEN SHUN CIRCUIT",
+        "user": "C",
+        "area_sqm": "4100.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-3-12",
+    "disposal_type": "TEN",
+    "premium": "588800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 352",
+        "address": "MA ON SHAN AREA 103",
+        "user": "PSPS",
+        "area_sqm": "43610.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-3-12",
+    "disposal_type": "AUC",
+    "premium": "200000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 113",
+        "address": "AREA 6, SITE D",
+        "user": "R2",
+        "area_sqm": "8675.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-3-12",
+    "disposal_type": "AUC",
+    "premium": "105000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "SIL 823",
+        "address": "REAR 181-205 SHAUKIWAN RD",
+        "user": "C/R",
+        "area_sqm": "726.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-03-22",
+    "disposal_type": "TEN",
+    "premium": "55400000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 426",
+        "address": "CASTLE PEAK RD",
+        "user": "PFS",
+        "area_sqm": "2090.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-04-26",
+    "disposal_type": "AUC",
+    "premium": "131000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6152",
+        "address": "LAM LOK ST, KLN BAY",
+        "user": "I",
+        "area_sqm": "2020.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-04-26",
+    "disposal_type": "AUC",
+    "premium": "36000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 93",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "1966.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-04-26",
+    "disposal_type": "AUC",
+    "premium": "325000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 111",
+        "address": "AREA 6, SITE B",
+        "user": "R2",
+        "area_sqm": "10490.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-07-17",
+    "disposal_type": "AUC",
+    "premium": "1010000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 112",
+        "address": "FANLING AREA 47A",
+        "user": "R1",
+        "area_sqm": "13530.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-07-17",
+    "disposal_type": "AUC",
+    "premium": "21000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 436",
+        "address": "AREA 26D, KWAI CHUNG",
+        "user": "I",
+        "area_sqm": "1536.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-08-14",
+    "disposal_type": "LAB",
+    "premium": "41210000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 80",
+        "address": "TAI PO AREA 22",
+        "user": "R1",
+        "area_sqm": "5409.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-08-15",
+    "disposal_type": "AUC",
+    "premium": "460000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11005",
+        "address": "170-180 ARGYLE ST",
+        "user": "R2",
+        "area_sqm": "5678.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-08-15",
+    "disposal_type": "AUC",
+    "premium": "430000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6165",
+        "address": "TAT CHEE AVENUE STAGE II",
+        "user": "R2",
+        "area_sqm": "5555.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-08-15",
+    "disposal_type": "LAB",
+    "premium": "18910000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 18",
+        "address": "TSEUNG KWAN O",
+        "user": "R1",
+        "area_sqm": "8800.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-09-18",
+    "disposal_type": "AUC",
+    "premium": "117000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 389",
+        "address": "AREA 11",
+        "user": "I",
+        "area_sqm": "2839.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-09-18",
+    "disposal_type": "AUC",
+    "premium": "18000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8823",
+        "address": "31A & 31B WYNDHAM ST",
+        "user": "C/R",
+        "area_sqm": "78.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-10-9",
+    "disposal_type": "AUC",
+    "premium": "19500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6147",
+        "address": "137 WATERLOO RD",
+        "user": "R3",
+        "area_sqm": "941.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-10-9",
+    "disposal_type": "AUC",
+    "premium": "1250000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 301",
+        "address": "FU KIN ST",
+        "user": "R3",
+        "area_sqm": "21350.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-11-1",
+    "disposal_type": "TEN",
+    "premium": "1133000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 382",
+        "address": "MA ON SHAN TOWN CENTRE",
+        "user": "C/R",
+        "area_sqm": "17220.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-11-6",
+    "disposal_type": "LAB",
+    "premium": "1540000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL129",
+        "address": "JOCKEY CLUB RD, SHEK WU HUI",
+        "user": "C/R",
+        "area_sqm": "485.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-11-7",
+    "disposal_type": "LAB",
+    "premium": "122630000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TWTL 353",
+        "address": "AREA 35, TSUEN WAN",
+        "user": "C/R",
+        "area_sqm": "19500.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-11-15",
+    "disposal_type": "TEN",
+    "premium": "285000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 69",
+        "address": "NEAR FANLING LUEN WO HUI",
+        "user": "PSPS",
+        "area_sqm": "19470.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-11-19",
+    "disposal_type": "AUC",
+    "premium": "539000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 10986",
+        "address": "19 HO MAN TIN HILL RD",
+        "user": "R2",
+        "area_sqm": "3893.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-11-19",
+    "disposal_type": "AUC",
+    "premium": "285500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 375",
+        "address": "ON PING ST, SHA TIN",
+        "user": "G",
+        "area_sqm": "8220.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-12-17",
+    "disposal_type": "AUC",
+    "premium": "202000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "AIL 423",
+        "address": "YIP KAN ST, WONG CHUK HANG",
+        "user": "C",
+        "area_sqm": "4172.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-12-17",
+    "disposal_type": "AUC",
+    "premium": "900000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11001",
+        "address": "KING'S PARK RISE",
+        "user": "R2",
+        "area_sqm": "6417.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-12-17",
+    "disposal_type": "AUC",
+    "premium": "705000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6161",
+        "address": "TAT CHEE AVENUE STAGE II",
+        "user": "R2",
+        "area_sqm": "10470.00"
+      }
+    ]
+  },
+  {
+    "date": "1991-12-18",
+    "disposal_type": "TEN",
+    "premium": "22800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 132",
+        "address": "NEAR WO HOP SHEK",
+        "user": "PFS",
+        "area_sqm": "2463.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-01-15",
+    "disposal_type": "AUC",
+    "premium": "72000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "AIL 422",
+        "address": "22 ABERDEEN MAIN RD",
+        "user": "R1",
+        "area_sqm": "347.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-01-15",
+    "disposal_type": "AUC",
+    "premium": "1250000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 10999",
+        "address": "SCIENCE MUSEUM RD",
+        "user": "C",
+        "area_sqm": "5535.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-01-24",
+    "disposal_type": "TEN",
+    "premium": "63630000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1980 in SD 2",
+        "address": "CLEAR WATER BAY RD",
+        "user": "PFS",
+        "area_sqm": "998.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-2-11",
+    "disposal_type": "TEN",
+    "premium": "700300000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 360",
+        "address": "AREA 44",
+        "user": "PSPS",
+        "area_sqm": "37550.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-02-20",
+    "disposal_type": "LAB",
+    "premium": "17890000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TWTL 328",
+        "address": "CHUNG ON ST",
+        "user": "C",
+        "area_sqm": "3395.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-02-24",
+    "disposal_type": "LAB",
+    "premium": "94210000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 392",
+        "address": "MA ON SHAN TOWN CENTRE",
+        "user": "R1",
+        "area_sqm": "8014.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-02-25",
+    "disposal_type": "AUC",
+    "premium": "1190000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11002",
+        "address": "KING'S PARK RISE/WYLIE RD",
+        "user": "R2",
+        "area_sqm": "8811.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-02-25",
+    "disposal_type": "AUC",
+    "premium": "800000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 124",
+        "address": "SHUI WAI, TAI PO AREA 15",
+        "user": "R2",
+        "area_sqm": "21060.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-02-25",
+    "disposal_type": "AUC",
+    "premium": "405000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 353",
+        "address": "OFF CASTLE PEAK RD",
+        "user": "R2",
+        "area_sqm": "7548.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-02-25",
+    "disposal_type": "AUC",
+    "premium": "94000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "SIL 827",
+        "address": "A KUNG NGAM",
+        "user": "G",
+        "area_sqm": "2115.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-02-25",
+    "disposal_type": "AUC",
+    "premium": "38000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 460",
+        "address": "TUNG TAU INDUSTRIAL AREA",
+        "user": "G",
+        "area_sqm": "3300.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-03-13",
+    "disposal_type": "AUC",
+    "premium": "266000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 394",
+        "address": "CHAP WAI KON ST",
+        "user": "G",
+        "area_sqm": "9500.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-03-13",
+    "disposal_type": "AUC",
+    "premium": "106000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 395",
+        "address": "MA LING PATH, KAU TO",
+        "user": "R4",
+        "area_sqm": "7700.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-03-13",
+    "disposal_type": "AUC",
+    "premium": "900000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 123",
+        "address": "SHUI WAI,TAI PO AREA 15",
+        "user": "R2",
+        "area_sqm": "19830.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-03-13",
+    "disposal_type": "AUC",
+    "premium": "415000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 421",
+        "address": "MA TIN RD, YUEN LONG",
+        "user": "R1",
+        "area_sqm": "5320.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-03-13",
+    "disposal_type": "AUC",
+    "premium": "33000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1067",
+        "address": "30 SEVERN RD",
+        "user": "R3",
+        "area_sqm": "2239.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-04-28",
+    "disposal_type": "AUC",
+    "premium": "220000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "APIL 124",
+        "address": "AP LEI CHAU WEST",
+        "user": "I",
+        "area_sqm": "5538.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-04-28",
+    "disposal_type": "AUC",
+    "premium": "175000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 374",
+        "address": "J/O ON LAI ST/ON KWAN ST",
+        "user": "I",
+        "area_sqm": "2869.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-04-28",
+    "disposal_type": "AUC",
+    "premium": "930000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 115",
+        "address": "AREA 30 (SITE 2)",
+        "user": "R2",
+        "area_sqm": "24630.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-05-18",
+    "disposal_type": "AUC",
+    "premium": "8650000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 99",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "472.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-05-18",
+    "disposal_type": "AUC",
+    "premium": "533000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 116",
+        "address": "AREA 30 (SITE 3)",
+        "user": "R2",
+        "area_sqm": "14540.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-08-19",
+    "disposal_type": "AUC",
+    "premium": "15000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6175",
+        "address": "BERWICK ST",
+        "user": "R1",
+        "area_sqm": "114.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-08-19",
+    "disposal_type": "AUC",
+    "premium": "54000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 717 in DD 4",
+        "address": "MUI WO, LANTAU",
+        "user": "C/R",
+        "area_sqm": "741.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-08-19",
+    "disposal_type": "AUC",
+    "premium": "44000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 492",
+        "address": "TUNG TAU INDUSTRIAL AREA",
+        "user": "I",
+        "area_sqm": "3778.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-09-18",
+    "disposal_type": "AUC",
+    "premium": "4600000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 237 in DD 331",
+        "address": "CHEUNG SHA, LANTAU",
+        "user": "R4",
+        "area_sqm": "855.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-09-18",
+    "disposal_type": "AUC",
+    "premium": "32000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 370",
+        "address": "KIN ON ST",
+        "user": "I",
+        "area_sqm": "2464.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-09-18",
+    "disposal_type": "AUC",
+    "premium": "475000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "SIL 830",
+        "address": "SHAU KEI WAN",
+        "user": "C/R",
+        "area_sqm": "1685.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-09-28",
+    "disposal_type": "LAB",
+    "premium": "15070000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 488",
+        "address": "MAU TAN ST/HOP CHOI ST",
+        "user": "R1",
+        "area_sqm": "1590.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-10-2",
+    "disposal_type": "LAB",
+    "premium": "50600000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 36",
+        "address": "AREA 19C, TSEUNG KWAN O",
+        "user": "R1",
+        "area_sqm": "15400.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-10-8",
+    "disposal_type": "AUC",
+    "premium": "97000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 80",
+        "address": "FANLING AREA 29B",
+        "user": "R3",
+        "area_sqm": "6900.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-10-8",
+    "disposal_type": "AUC",
+    "premium": "13600000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 251",
+        "address": "MEI WO CIRCUIT",
+        "user": "R4",
+        "area_sqm": "884.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-10-8",
+    "disposal_type": "AUC",
+    "premium": "280000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 415",
+        "address": "ON SUM ST, SHA TIN",
+        "user": "I",
+        "area_sqm": "8100.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-10-20",
+    "disposal_type": "TEN",
+    "premium": "72000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 413",
+        "address": "MA ON SHAN RD",
+        "user": "PFS",
+        "area_sqm": "2500.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-10-27",
+    "disposal_type": "TEN",
+    "premium": "91290000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 388",
+        "address": "LOWER SHING MUN RD",
+        "user": "OU",
+        "area_sqm": "2744.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-11-16",
+    "disposal_type": "TEN",
+    "premium": "285100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "AIL 421",
+        "address": "SHUM WAN RD",
+        "user": "PSPS",
+        "area_sqm": "7640.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-11-27",
+    "disposal_type": "AUC",
+    "premium": "98000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 4932",
+        "address": "35-42 ROSE ST",
+        "user": "R2",
+        "area_sqm": "1312.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-11-27",
+    "disposal_type": "AUC",
+    "premium": "45000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 716 in DD 4",
+        "address": "MUI WO, LANTAU",
+        "user": "C/R",
+        "area_sqm": "741.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-12-15",
+    "disposal_type": "AUC",
+    "premium": "109000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 149",
+        "address": "AREA 30A SHEUNG SHUI",
+        "user": "I",
+        "area_sqm": "5871.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-12-15",
+    "disposal_type": "AUC",
+    "premium": "39000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 163",
+        "address": "ON LOK TSUEN",
+        "user": "I",
+        "area_sqm": "2935.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-12-16",
+    "disposal_type": "LAB",
+    "premium": "74090000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 418",
+        "address": "MA ON SHAN TOWN CENTRE",
+        "user": "R1",
+        "area_sqm": "6050.00"
+      }
+    ]
+  },
+  {
+    "date": "1992-12-17",
+    "disposal_type": "LAB",
+    "premium": "75690000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 17",
+        "address": "AREA 38A, TSEUNG KWAN O",
+        "user": "C/R",
+        "area_sqm": "20400.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-1-12",
+    "disposal_type": "AUC",
+    "premium": "705000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6157",
+        "address": "SHUNG LING ST",
+        "user": "C/R",
+        "area_sqm": "3093.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-1-12",
+    "disposal_type": "AUC",
+    "premium": "360000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11035",
+        "address": "COX'S RD",
+        "user": "R2",
+        "area_sqm": "1395.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-1-12",
+    "disposal_type": "AUC",
+    "premium": "345000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 456",
+        "address": "TOWN PARK RD NORTH",
+        "user": "R2",
+        "area_sqm": "10500.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-1-12",
+    "disposal_type": "AUC",
+    "premium": "100000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 442",
+        "address": "TAI LIN PAI RD",
+        "user": "I",
+        "area_sqm": "916.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-01-20",
+    "disposal_type": "TEN",
+    "premium": "536800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 149",
+        "address": "CHAI WAN ESTATE - SAN HA ST",
+        "user": "PSPS",
+        "area_sqm": "11090.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-2-3",
+    "disposal_type": "AUC",
+    "premium": "3530000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6160",
+        "address": "LUNG CHEUNG RD",
+        "user": "C/R",
+        "area_sqm": "26060.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-2-3",
+    "disposal_type": "AUC",
+    "premium": "164000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 147",
+        "address": "AREA 30A, SHEUNG SHUI",
+        "user": "I",
+        "area_sqm": "12020.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-02-15",
+    "disposal_type": "TEN",
+    "premium": "16300000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 403",
+        "address": "MAN LAI RD",
+        "user": "PFS",
+        "area_sqm": "1070.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-02-22",
+    "disposal_type": "TEN",
+    "premium": "2800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1620 in DD 77",
+        "address": "TA KWU LING RURAL CENTRE",
+        "user": "C",
+        "area_sqm": "430.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-3-2",
+    "disposal_type": "LAB",
+    "premium": "248980000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 27",
+        "address": "AREA 17, TSEUNG KWAN O",
+        "user": "C/R",
+        "area_sqm": "31560.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-3-3",
+    "disposal_type": "LAB",
+    "premium": "267360000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 410",
+        "address": "PIK TIN ST",
+        "user": "R2",
+        "area_sqm": "10680.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-3-3",
+    "disposal_type": "LAB",
+    "premium": "22840000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 126",
+        "address": "PLOVER COVE RD",
+        "user": "C/R",
+        "area_sqm": "1425.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-03-17",
+    "disposal_type": "TEN",
+    "premium": "711000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 148",
+        "address": "SIU SAI WAN RECLAMATION",
+        "user": "PSPS",
+        "area_sqm": "12310.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-03-18",
+    "disposal_type": "TEN",
+    "premium": "86690000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 31",
+        "address": "AREA 10, TSEUNG KWAN O",
+        "user": "PFS",
+        "area_sqm": "1930.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-03-30",
+    "disposal_type": "AUC",
+    "premium": "2850000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6181",
+        "address": "TAT CHEE AVENUE EXTENSION",
+        "user": "C/OU",
+        "area_sqm": "20660.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-03-30",
+    "disposal_type": "AUC",
+    "premium": "65000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 148",
+        "address": "AREA 30A, SHEUNG SHUI",
+        "user": "I",
+        "area_sqm": "2631.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-03-30",
+    "disposal_type": "AUC",
+    "premium": "990000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 393",
+        "address": "MA ON SHAN TOWN CENTRE",
+        "user": "R1",
+        "area_sqm": "6450.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-03-30",
+    "disposal_type": "AUC",
+    "premium": "155000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 4284 in DD 124",
+        "address": "HUNG SHUI KIU",
+        "user": "C/R",
+        "area_sqm": "1844.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-06-22",
+    "disposal_type": "AUC",
+    "premium": "505000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 98",
+        "address": "MA LING PATH",
+        "user": "R3",
+        "area_sqm": "15320.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-06-22",
+    "disposal_type": "AUC",
+    "premium": "385000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 419",
+        "address": "J/O ON SUM ST/ON LAI ST",
+        "user": "IG",
+        "area_sqm": "4000.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-06-22",
+    "disposal_type": "AUC",
+    "premium": "46000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 489",
+        "address": "TUNG TAU INDUSTRIAL AREA",
+        "user": "G",
+        "area_sqm": "3030.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-7-9",
+    "disposal_type": "AUC",
+    "premium": "266000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 368",
+        "address": "CASTLE PEAK RD",
+        "user": "R1",
+        "area_sqm": "2783.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-7-9",
+    "disposal_type": "AUC",
+    "premium": "600000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 486",
+        "address": "TOWN PARK RD NORTH",
+        "user": "R2",
+        "area_sqm": "10320.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-10-13",
+    "disposal_type": "AUC",
+    "premium": "395000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 420",
+        "address": "J/O ON SUM ST/ON YIU ST",
+        "user": "IG",
+        "area_sqm": "4200.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-10-13",
+    "disposal_type": "AUC",
+    "premium": "50000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 494",
+        "address": "TUNG TAU INDUSTRIAL AREA",
+        "user": "IG",
+        "area_sqm": "3555.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-11-29",
+    "disposal_type": "AUC",
+    "premium": "18000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 723 in DD 4",
+        "address": "MUI WO, LANTAU",
+        "user": "C",
+        "area_sqm": "840.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-11-29",
+    "disposal_type": "AUC",
+    "premium": "297000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 419",
+        "address": "MA TIN RD, YUEN LONG",
+        "user": "R2",
+        "area_sqm": "4350.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-12-15",
+    "disposal_type": "AUC",
+    "premium": "82000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 661 in PENG CHAU",
+        "address": "PENG CHAU",
+        "user": "C/R",
+        "area_sqm": "1945.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-12-15",
+    "disposal_type": "AUC",
+    "premium": "3940000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 5924",
+        "address": "OFF LUNG PING RD",
+        "user": "R2",
+        "area_sqm": "43520.00"
+      }
+    ]
+  },
+  {
+    "date": "1993-12-15",
+    "disposal_type": "AUC",
+    "premium": "32000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1107 in DD 215",
+        "address": "TUI MIN HOI, SAI KUNG",
+        "user": "IG",
+        "area_sqm": "1681.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-01-31",
+    "disposal_type": "AUC",
+    "premium": "415000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "APIL 125",
+        "address": "AP LEI CHAU WEST",
+        "user": "IG",
+        "area_sqm": "5756.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-01-31",
+    "disposal_type": "AUC",
+    "premium": "76000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 379",
+        "address": "AREA 16, TUEN MUN, N.T.",
+        "user": "G",
+        "area_sqm": "3804.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-02-21",
+    "disposal_type": "TEN",
+    "premium": "90000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 409",
+        "address": "TAI PO RD",
+        "user": "PFS",
+        "area_sqm": "920.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-02-24",
+    "disposal_type": "TEN",
+    "premium": "125100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1066",
+        "address": "RED HILL RD",
+        "user": "C",
+        "area_sqm": "2080.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-02-25",
+    "disposal_type": "TEN",
+    "premium": "325000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 125",
+        "address": "FANLING, N.T.",
+        "user": "PSPS",
+        "area_sqm": "15500.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-3-1",
+    "disposal_type": "AUC",
+    "premium": "2260000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11044",
+        "address": "J/O MA TAU WAI RD/FARM RD",
+        "user": "R2",
+        "area_sqm": "7059.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-3-1",
+    "disposal_type": "AUC",
+    "premium": "2140000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 137",
+        "address": "AREA 7, TAI PO",
+        "user": "R2",
+        "area_sqm": "18490.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-3-1",
+    "disposal_type": "AUC",
+    "premium": "650000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 263",
+        "address": "AREA 4C",
+        "user": "R2",
+        "area_sqm": "7877.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-03-15",
+    "disposal_type": "LAB",
+    "premium": "23050000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 34",
+        "address": "AREA 19A, TSEUNG KWAN O",
+        "user": "C/R",
+        "area_sqm": "12620.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-03-15",
+    "disposal_type": "LAB",
+    "premium": "46380000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 40",
+        "address": "AREA 37B, TSEUNG KWAN O",
+        "user": "R1",
+        "area_sqm": "14600.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-03-31",
+    "disposal_type": "AUC",
+    "premium": "650000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 422",
+        "address": "ON YIU ST",
+        "user": "IG",
+        "area_sqm": "6515.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-03-31",
+    "disposal_type": "AUC",
+    "premium": "850000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 380",
+        "address": "AREA 11, TUEN MUN",
+        "user": "C/MCP",
+        "area_sqm": "3781.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-03-31",
+    "disposal_type": "AUC",
+    "premium": "2200000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8868",
+        "address": "665 KING'S RD",
+        "user": "C",
+        "area_sqm": "2661.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-05-26",
+    "disposal_type": "AUC",
+    "premium": "2040000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 126",
+        "address": "AREA 19, LUEN WO HUI",
+        "user": "R1",
+        "area_sqm": "20780.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-05-26",
+    "disposal_type": "AUC",
+    "premium": "510000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 463",
+        "address": "FUNG KAM ST, YUEN LONG",
+        "user": "R1",
+        "area_sqm": "5889.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-07-26",
+    "disposal_type": "AUC",
+    "premium": "890000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 119",
+        "address": "AREA 30, TAI PO",
+        "user": "R3",
+        "area_sqm": "23800.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-07-26",
+    "disposal_type": "AUC",
+    "premium": "335000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 138",
+        "address": "AREA 2, TAI PO, KAU HUI",
+        "user": "R1",
+        "area_sqm": "2114.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-08-23",
+    "disposal_type": "AUC",
+    "premium": "950000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 136",
+        "address": "AREA 7, TAI PO",
+        "user": "R2",
+        "area_sqm": "15250.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-08-23",
+    "disposal_type": "AUC",
+    "premium": "220000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 435",
+        "address": "KWAI FUK RD, KWAI CHUNG",
+        "user": "G",
+        "area_sqm": "3350.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-10-20",
+    "disposal_type": "AUC",
+    "premium": "264000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 116",
+        "address": "FANLING AREA 29B",
+        "user": "R3",
+        "area_sqm": "13430.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-10-20",
+    "disposal_type": "AUC",
+    "premium": "47000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 397",
+        "address": "CHIK FU ST, TAI WAI",
+        "user": "R1",
+        "area_sqm": "280.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-11-10",
+    "disposal_type": "LAB",
+    "premium": "33970000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 23",
+        "address": "AREA 37A, TSEUNG KWAN O",
+        "user": "C/R",
+        "area_sqm": "14300.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-11-23",
+    "disposal_type": "AUC",
+    "premium": "14000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6208",
+        "address": "212 LAI CHI KOK RD",
+        "user": "R1",
+        "area_sqm": "84.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-11-23",
+    "disposal_type": "AUC",
+    "premium": "372000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 139",
+        "address": "TAI PO OLD MARKET AREA 2",
+        "user": "R1",
+        "area_sqm": "2367.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-11-23",
+    "disposal_type": "AUC",
+    "premium": "190000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "SIL 811",
+        "address": "351-361 SHAUKEIWAN RD",
+        "user": "C",
+        "area_sqm": "452.00"
+      }
+    ]
+  },
+  {
+    "date": "1994-12-14",
+    "disposal_type": "AUC",
+    "premium": "170000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 437",
+        "address": "WING HAU ST",
+        "user": "OU",
+        "area_sqm": "6242.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-01-25",
+    "disposal_type": "AUC",
+    "premium": "230000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "APIL 129",
+        "address": "AP LEI CHAU PRAYA RD",
+        "user": "I",
+        "area_sqm": "16770.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-01-25",
+    "disposal_type": "AUC",
+    "premium": "171000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 108",
+        "address": "KAU TO",
+        "user": "R3",
+        "area_sqm": "6500.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-02-17",
+    "disposal_type": "TEN",
+    "premium": "110220000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 44",
+        "address": "AREA 16, TSEUNG KWAN O",
+        "user": "PFS",
+        "area_sqm": "2640.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-02-22",
+    "disposal_type": "AUC",
+    "premium": "53500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "StIL 74",
+        "address": "ADJ. NO.7, STANLEY MAIN ST",
+        "user": "R1",
+        "area_sqm": "211.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-02-22",
+    "disposal_type": "AUC",
+    "premium": "1020000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11064",
+        "address": "9 COX'S RD & 1-6 COX'S PATH",
+        "user": "R2",
+        "area_sqm": "4126.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-02-28",
+    "disposal_type": "TEN",
+    "premium": "800080000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 154",
+        "address": "SIU SAI WAN RECLAMATION",
+        "user": "PSPS",
+        "area_sqm": "27530.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-03-14",
+    "disposal_type": "AUC",
+    "premium": "1610000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6217",
+        "address": "FUNG SHING ST, NGAU CHI WAN",
+        "user": "R1",
+        "area_sqm": "13999.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-03-14",
+    "disposal_type": "AUC",
+    "premium": "1240000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 435",
+        "address": "AREA 90, MA ON SHAN",
+        "user": "R2",
+        "area_sqm": "10900.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-03-14",
+    "disposal_type": "AUC",
+    "premium": "137000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 391",
+        "address": "AREA 16, TUEN MUN, N.T.",
+        "user": "C",
+        "area_sqm": "4991.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-03-17",
+    "disposal_type": "TEN",
+    "premium": "110000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 432",
+        "address": "J/O ON SUM ST/ON PING ST",
+        "user": "PFS",
+        "area_sqm": "1530.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-03-27",
+    "disposal_type": "AUC",
+    "premium": "920000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11075",
+        "address": "CHUNG HAU ST, HOMANTIN",
+        "user": "R1",
+        "area_sqm": "3380.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-03-27",
+    "disposal_type": "AUC",
+    "premium": "1060000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 49",
+        "address": "AREA 37C, TSEUNG KWAN O",
+        "user": "R1",
+        "area_sqm": "5970.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-03-27",
+    "disposal_type": "AUC",
+    "premium": "1320000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 428",
+        "address": "MA ON SHAN TOWN CENTRE",
+        "user": "C/R",
+        "area_sqm": "10306.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-03-27",
+    "disposal_type": "AUC",
+    "premium": "70000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 467",
+        "address": "TOWN PARK RD, YUEN LONG",
+        "user": "R2",
+        "area_sqm": "2155.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-03-30",
+    "disposal_type": "AUC",
+    "premium": "1330000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11063",
+        "address": "KING'S PARK RISE",
+        "user": "R2",
+        "area_sqm": "15644.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-03-30",
+    "disposal_type": "AUC",
+    "premium": "30000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 323 in DD 213",
+        "address": "SHA HA, SAI KUNG",
+        "user": "R3",
+        "area_sqm": "900.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-03-30",
+    "disposal_type": "AUC",
+    "premium": "465000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 450",
+        "address": "TOWN PARK RD NORTH",
+        "user": "R2",
+        "area_sqm": "16301.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-06-28",
+    "disposal_type": "AUC",
+    "premium": "500000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 117",
+        "address": "AREA 30, TAI PO",
+        "user": "R3",
+        "area_sqm": "26310.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-06-28",
+    "disposal_type": "AUC",
+    "premium": "320000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "SIL 825",
+        "address": "SHAUKEIWAN MAIN ST EAST",
+        "user": "R1",
+        "area_sqm": "1296.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-8-3",
+    "disposal_type": "TEN",
+    "premium": "3351000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8822",
+        "address": "CRII - TAMAR C37",
+        "user": "C",
+        "area_sqm": "3480.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-08-14",
+    "disposal_type": "TEN",
+    "premium": "132340000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 402",
+        "address": "AREA 30A, TUEN MUN",
+        "user": "PFS",
+        "area_sqm": "810.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-09-19",
+    "disposal_type": "TEN",
+    "premium": "10100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 388",
+        "address": "AREA 16, TUEN MUN, N.T.",
+        "user": "G",
+        "area_sqm": "1305.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-09-26",
+    "disposal_type": "AUC",
+    "premium": "280000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 97",
+        "address": "LAI CHI SHAN, AREA 37, TAI PO",
+        "user": "R3",
+        "area_sqm": "15300.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-09-26",
+    "disposal_type": "AUC",
+    "premium": "88000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 452",
+        "address": "SHING YIU ST., KWAI CHUNG",
+        "user": "I",
+        "area_sqm": "6525.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-10-31",
+    "disposal_type": "TEN",
+    "premium": "13800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 389",
+        "address": "AREA 16, TUEN MUN, N.T.",
+        "user": "G",
+        "area_sqm": "1838.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-11-27",
+    "disposal_type": "AUC",
+    "premium": "107000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1119",
+        "address": "26 MOUNT KELLETT RD",
+        "user": "R3",
+        "area_sqm": "1936.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-11-27",
+    "disposal_type": "AUC",
+    "premium": "95000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TWTL 377",
+        "address": "WO TIK ST",
+        "user": "C/R",
+        "area_sqm": "572.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-12-4",
+    "disposal_type": "TEN",
+    "premium": "1141000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 50",
+        "address": "AREA 55, TSEUNG KWAN O",
+        "user": "PSPS",
+        "area_sqm": "29281.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-12-13",
+    "disposal_type": "TEN",
+    "premium": "875800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 127",
+        "address": "LUEN WO HUI, FANLING",
+        "user": "C/R",
+        "area_sqm": "11288.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-12-19",
+    "disposal_type": "AUC",
+    "premium": "860000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8870",
+        "address": "GL NEAR 42 STUBBS RD",
+        "user": "R2",
+        "area_sqm": "3045.00"
+      }
+    ]
+  },
+  {
+    "date": "1995-12-19",
+    "disposal_type": "AUC",
+    "premium": "191000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8871",
+        "address": "44 JARDINE CRESCENT",
+        "user": "C/R",
+        "area_sqm": "550.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-01-25",
+    "disposal_type": "TEN",
+    "premium": "1904000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11082",
+        "address": "MONGKOK WEST, WEST KOWLOON RECLAMATION",
+        "user": "PSPS",
+        "area_sqm": "38100.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-2-5",
+    "disposal_type": "TEN",
+    "premium": "752740000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 185",
+        "address": "AREA 47A, FANLING, NT",
+        "user": "C/R",
+        "area_sqm": "8000.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-2-5",
+    "disposal_type": "TEN",
+    "premium": "2186980000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 186",
+        "address": "AREA 47A, FANLING, NT",
+        "user": "C/R",
+        "area_sqm": "21160.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-2-5",
+    "disposal_type": "TEN",
+    "premium": "2718000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 446",
+        "address": "AREA 108, MA ON SHAN",
+        "user": "R2",
+        "area_sqm": "25825.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-3-1",
+    "disposal_type": "TEN",
+    "premium": "361000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 455",
+        "address": "KWAI FUK RD",
+        "user": "OU",
+        "area_sqm": "16960.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-03-18",
+    "disposal_type": "AUC",
+    "premium": "4725000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11084",
+        "address": "CDA SITE IN HUNG HOM BAY RECLAMATION",
+        "user": "C/R",
+        "area_sqm": "15073.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-03-18",
+    "disposal_type": "AUC",
+    "premium": "70000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 141",
+        "address": "TAI PO OLD MARKET",
+        "user": "R1",
+        "area_sqm": "466.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-03-18",
+    "disposal_type": "TEN",
+    "premium": "38200000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 397",
+        "address": "AREA 16, TUEN MUN, N.T.",
+        "user": "G",
+        "area_sqm": "4201.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-03-18",
+    "disposal_type": "AUC",
+    "premium": "440000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 156",
+        "address": "HONG MAN ST, CHAI WAN",
+        "user": "C/R",
+        "area_sqm": "1591.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-03-18",
+    "disposal_type": "AUC",
+    "premium": "765000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8828",
+        "address": "WYNDHAM ST/ARBUTHNOT RD",
+        "user": "C",
+        "area_sqm": "1585.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-03-22",
+    "disposal_type": "TEN",
+    "premium": "331000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 395",
+        "address": "LUNG MUN RD, TUEN MUN",
+        "user": "PSPS",
+        "area_sqm": "38300.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-03-29",
+    "disposal_type": "TEN",
+    "premium": "1141110000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 393",
+        "address": "AREA 38, LUNG MUN RD",
+        "user": "OU",
+        "area_sqm": "650242.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-08-14",
+    "disposal_type": "AUC",
+    "premium": "17000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "SOIL 96",
+        "address": "SHEK O HEADLAND",
+        "user": "R3",
+        "area_sqm": "276.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-08-14",
+    "disposal_type": "AUC",
+    "premium": "535000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 118",
+        "address": "AREA 30 (SITE 1)",
+        "user": "R3",
+        "area_sqm": "21200.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-08-19",
+    "disposal_type": "TEN",
+    "premium": "17200000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 390",
+        "address": "AREA 16, TUEN MUN, N.T.",
+        "user": "G",
+        "area_sqm": "2128.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-10-18",
+    "disposal_type": "TEN",
+    "premium": "165000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 470",
+        "address": "CONTAINER PORT RD",
+        "user": "PFS",
+        "area_sqm": "1575.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-10-22",
+    "disposal_type": "TEN",
+    "premium": "26910000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 398",
+        "address": "AREA 16, TUEN MUN, N.T.",
+        "user": "G",
+        "area_sqm": "2919.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-10-29",
+    "disposal_type": "LAB",
+    "premium": "4420000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TWTL 376",
+        "address": "SHIU WO ST",
+        "user": "C/R",
+        "area_sqm": "1020.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-11-13",
+    "disposal_type": "AUC",
+    "premium": "10000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 729 in DD 4 MUI WO, LANTAU",
+        "address": "MUI WO, LANTAU",
+        "user": "C",
+        "area_sqm": "720.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-11-13",
+    "disposal_type": "AUC",
+    "premium": "370000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 491",
+        "address": "J/O MA TIN RD/TAI YUK RD",
+        "user": "C/R",
+        "area_sqm": "4206.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-12-5",
+    "disposal_type": "TEN",
+    "premium": "380000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 405",
+        "address": "LUNG MUN RD., TUEN MUN",
+        "user": "PSPS",
+        "area_sqm": "36941.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-12-11",
+    "disposal_type": "AUC",
+    "premium": "61000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6235",
+        "address": "TSEUK LUK ST",
+        "user": "C/R",
+        "area_sqm": "222.00"
+      }
+    ]
+  },
+  {
+    "date": "1996-12-11",
+    "disposal_type": "AUC",
+    "premium": "760000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8874",
+        "address": "152 ELECTRIC RD",
+        "user": "C",
+        "area_sqm": "1223.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-1-9",
+    "disposal_type": "TEN",
+    "premium": "142800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "SIL 826",
+        "address": "A KUNG NGAM",
+        "user": "IG",
+        "area_sqm": "2311.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-01-15",
+    "disposal_type": "AUC",
+    "premium": "230000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1133",
+        "address": "SOUTH BAY RD",
+        "user": "R3",
+        "area_sqm": "2008.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-01-15",
+    "disposal_type": "AUC",
+    "premium": "258000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 355",
+        "address": "18 1/2 MS CASTLE PEAK RD",
+        "user": "R3",
+        "area_sqm": "5080.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-01-21",
+    "disposal_type": "TEN",
+    "premium": "26800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1000 in DD 40",
+        "address": "SHA TAU KOK",
+        "user": "R2",
+        "area_sqm": "1167.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-02-22",
+    "disposal_type": "TEN",
+    "premium": "233600000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6215",
+        "address": "CHEUNG YIP ST/LAM CHAK ST",
+        "user": "IG",
+        "area_sqm": "6541.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-3-11",
+    "disposal_type": "TEN",
+    "premium": "333000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 347",
+        "address": "ON LAI ST/ON PING ST",
+        "user": "C",
+        "area_sqm": "6500.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-03-18",
+    "disposal_type": "TEN",
+    "premium": "125300000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1135",
+        "address": "POK FU LAM RD",
+        "user": "PFS",
+        "area_sqm": "811.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-03-18",
+    "disposal_type": "TEN",
+    "premium": "86000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1136",
+        "address": "SHOUSON HILL RD",
+        "user": "C",
+        "area_sqm": "1242.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-03-22",
+    "disposal_type": "TEN",
+    "premium": "165000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "AIL 436",
+        "address": "ABERDEEN PRAYA RD",
+        "user": "PSPS",
+        "area_sqm": "4637.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-03-25",
+    "disposal_type": "AUC",
+    "premium": "1400000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11091",
+        "address": "CHUNG HAU ST, HOMANTIN",
+        "user": "R1",
+        "area_sqm": "2627.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-03-25",
+    "disposal_type": "AUC",
+    "premium": "11820000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 152",
+        "address": "SIU SAI WAN RECLAMATION",
+        "user": "R1",
+        "area_sqm": "25592.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-03-26",
+    "disposal_type": "TEN",
+    "premium": "810000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6233",
+        "address": "HAMMER HILL RD",
+        "user": "PSPS",
+        "area_sqm": "25702.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-6-3",
+    "disposal_type": "AUC",
+    "premium": "5500000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1138",
+        "address": "PENDRAGON 150 WONG MA KOK",
+        "user": "R3",
+        "area_sqm": "53126.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-6-3",
+    "disposal_type": "AUC",
+    "premium": "6060000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11055",
+        "address": "WAN HOI ST, HUNG HOM",
+        "user": "R1",
+        "area_sqm": "7402.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-6-3",
+    "disposal_type": "AUC",
+    "premium": "40000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 244 in DD 331",
+        "address": "CHEUNG FU ST, CHEUNG SHA",
+        "user": "R4",
+        "area_sqm": "2240.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-6-10",
+    "disposal_type": "TEN",
+    "premium": "91000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 461",
+        "address": "TUNG TAU INDUSTRIAL AREA",
+        "user": "I",
+        "area_sqm": "3180.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-08-27",
+    "disposal_type": "AUC",
+    "premium": "5550000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1132",
+        "address": "129 REPULSE BAY RD",
+        "user": "R3",
+        "area_sqm": "10570.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-08-27",
+    "disposal_type": "AUC",
+    "premium": "64000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 868 in DD 1 LAMMA",
+        "address": "NGA KAU WAN, LAMMA ISLAND",
+        "user": "R3",
+        "area_sqm": "3920.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-08-27",
+    "disposal_type": "AUC",
+    "premium": "56000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 217",
+        "address": "MEI WO CIRCUIT, AREA 41A, SHA TIN",
+        "user": "R4",
+        "area_sqm": "1307.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-09-15",
+    "disposal_type": "AUC",
+    "premium": "105000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "APIL 130",
+        "address": "HUNG SHING ST/WAI FUNG ST",
+        "user": "C/R",
+        "area_sqm": "400.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-09-15",
+    "disposal_type": "AUC",
+    "premium": "51000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 13 in DD 231",
+        "address": "CHUK KOK",
+        "user": "R4",
+        "area_sqm": "1570.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-10-14",
+    "disposal_type": "AUC",
+    "premium": "5600000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 161",
+        "address": "SHUEN WAN",
+        "user": "R3",
+        "area_sqm": "91265.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-10-14",
+    "disposal_type": "AUC",
+    "premium": "2900000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 407",
+        "address": "AREA 16, TUEN MUN, N.T.",
+        "user": "R1",
+        "area_sqm": "16587.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-11-10",
+    "disposal_type": "TEN",
+    "premium": "390000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "AIL 435",
+        "address": "SHUM WAN RD (SOUTH)",
+        "user": "PSPS",
+        "area_sqm": "15855.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-11-19",
+    "disposal_type": "AUC",
+    "premium": "221000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1139",
+        "address": "4 CAPE DRIVE, CHUNG HOM KOK",
+        "user": "R3",
+        "area_sqm": "3189.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-11-19",
+    "disposal_type": "AUC",
+    "premium": "276000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "HHIL 550",
+        "address": "BULKELEY ST, HUNG HOM",
+        "user": "R1",
+        "area_sqm": "693.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-12-1",
+    "disposal_type": "TEN",
+    "premium": "15100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 497",
+        "address": "TUNG TAU INDUSTRIAL AREA",
+        "user": "I",
+        "area_sqm": "2435.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-12-11",
+    "disposal_type": "AUC",
+    "premium": "285000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 416",
+        "address": "AREA 10, TUEN MUN",
+        "user": "R1",
+        "area_sqm": "2293.00"
+      }
+    ]
+  },
+  {
+    "date": "1997-12-11",
+    "disposal_type": "AUC",
+    "premium": "58000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 2058 in DD 121",
+        "address": "SHA TSENG RD, TONG YAN SAN TSUEN",
+        "user": "R3",
+        "area_sqm": "1950.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-01-13",
+    "disposal_type": "AUC",
+    "premium": "250000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 409",
+        "address": "TSING SIN ST, AREA 37B",
+        "user": "R1",
+        "area_sqm": "3875.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-01-13",
+    "disposal_type": "AUC",
+    "premium": "33000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1736 in DD 122",
+        "address": "PING SHAN LANE",
+        "user": "R3",
+        "area_sqm": "2040.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-2-6",
+    "disposal_type": "TEN",
+    "premium": "112100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 5877",
+        "address": "WANG CHIU RD, KOWLOON BAY",
+        "user": "IO",
+        "area_sqm": "4288.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-2-12",
+    "disposal_type": "AUC",
+    "premium": "90000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 318",
+        "address": "SUI WO RD",
+        "user": "R4",
+        "area_sqm": "4133.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-2-12",
+    "disposal_type": "AUC",
+    "premium": "11600000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 468",
+        "address": "CHIK FU ST",
+        "user": "R1",
+        "area_sqm": "88.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-02-16",
+    "disposal_type": "TEN",
+    "premium": "130000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 479",
+        "address": "STONECUTTERS ISLAND",
+        "user": "OU",
+        "area_sqm": "33391.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-02-16",
+    "disposal_type": "TEN",
+    "premium": "86260000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 481",
+        "address": "STONECUTTERS ISLAND",
+        "user": "OU",
+        "area_sqm": "33391.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-3-10",
+    "disposal_type": "TEN",
+    "premium": "120390000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 461",
+        "address": "AREA 100, MA ON SHAN",
+        "user": "HTL",
+        "area_sqm": "8000.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-03-13",
+    "disposal_type": "TEN",
+    "premium": "2893000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11086",
+        "address": "J/O CANTON RD/AUSTIN RD",
+        "user": "C/R",
+        "area_sqm": "10486.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-03-24",
+    "disposal_type": "AUC",
+    "premium": "290000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 451",
+        "address": "MA TIN RD,YUEN LONG",
+        "user": "R2",
+        "area_sqm": "6796.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-03-24",
+    "disposal_type": "AUC",
+    "premium": "920000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1145",
+        "address": "6-14 MOUNT AUSTIN RD",
+        "user": "R3",
+        "area_sqm": "13328.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-03-26",
+    "disposal_type": "TEN",
+    "premium": "51220000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 425",
+        "address": "J/O HO TIN ST/KIN FAT ST.",
+        "user": "I",
+        "area_sqm": "3414.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-4-7",
+    "disposal_type": "TEN",
+    "premium": "28880000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 443",
+        "address": "HI YIP ST, TUNG TAU",
+        "user": "MCP",
+        "area_sqm": "3106.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-04-17",
+    "disposal_type": "TEN",
+    "premium": "3612000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8882",
+        "address": "LEIGHTON HILL, HONG KONG",
+        "user": "R2",
+        "area_sqm": "43143.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-04-22",
+    "disposal_type": "AUC",
+    "premium": "330000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 183",
+        "address": "SHEK WU HUI, SHEUNG SHUI",
+        "user": "C/R",
+        "area_sqm": "3068.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-04-22",
+    "disposal_type": "AUC",
+    "premium": "1240000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11108",
+        "address": "1 PEKING RD",
+        "user": "C",
+        "area_sqm": "2200.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-04-24",
+    "disposal_type": "TEN",
+    "premium": "361000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6268",
+        "address": "WANG YUEN ST/WANG TAI RD",
+        "user": "C",
+        "area_sqm": "5306.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-05-15",
+    "disposal_type": "TEN",
+    "premium": "39500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1140 in DD 215",
+        "address": "CHIU TONG RD/FUI YIU LANE",
+        "user": "MCP",
+        "area_sqm": "3163.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-05-22",
+    "disposal_type": "TEN",
+    "premium": "1677000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "SIL 843",
+        "address": "ALDRICH BAY RECLAMATION",
+        "user": "R1",
+        "area_sqm": "7056.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-05-29",
+    "disposal_type": "TEN",
+    "premium": "238800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 5927",
+        "address": "SHEUNG YEE RD",
+        "user": "IO",
+        "area_sqm": "12594.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-06-19",
+    "disposal_type": "TEN",
+    "premium": "46800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6204",
+        "address": "LAM LOK ST/SHEUNG YUET RD",
+        "user": "IO",
+        "area_sqm": "1889.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-7-3",
+    "disposal_type": "TEN",
+    "premium": "825000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6270",
+        "address": "CHOI HUNG RD, SAN PO KONG",
+        "user": "PSPS",
+        "area_sqm": "35129.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-7-10",
+    "disposal_type": "TEN",
+    "premium": "509290000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 62",
+        "address": "AREA 65A, TSEUNG KWAN O",
+        "user": "PSPS",
+        "area_sqm": "25101.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-07-15",
+    "disposal_type": "TEN",
+    "premium": "1099000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "SIL 839",
+        "address": "ALDRICH BAY RECLAMATION",
+        "user": "PSPS",
+        "area_sqm": "23414.00"
+      }
+    ]
+  },
+  {
+    "date": "1998-8-12",
+    "disposal_type": "TEN",
+    "premium": "78000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 67",
+        "address": "AREA 106, TSEUNG KWAN O",
+        "user": "OU",
+        "area_sqm": "29800.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-04-20",
+    "disposal_type": "AUC",
+    "premium": "590000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL8921",
+        "address": "35 & 37 CLOUD VIEW RD",
+        "user": "R2",
+        "area_sqm": "2494.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-04-20",
+    "disposal_type": "AUC",
+    "premium": "515000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6276",
+        "address": "83 BROADCAST DRIVE",
+        "user": "R2",
+        "area_sqm": "4272.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-04-20",
+    "disposal_type": "AUC",
+    "premium": "385000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 419",
+        "address": "AREA 58, SIU LAM, TUEN MUN",
+        "user": "R3",
+        "area_sqm": "19318.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-6-10",
+    "disposal_type": "TEN",
+    "premium": "248000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 195",
+        "address": "AREA 19, FANLING",
+        "user": "CR & GIC",
+        "area_sqm": "12212.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-06-17",
+    "disposal_type": "TEN",
+    "premium": "3240000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6277",
+        "address": "BEACON HILL ROAD, KOWLOON TONG",
+        "user": "R3",
+        "area_sqm": "41578.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-06-29",
+    "disposal_type": "AUC",
+    "premium": "265000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1146",
+        "address": "NOS. 1-3 HOMESTEAD ROAD,THE PEAK",
+        "user": "R3",
+        "area_sqm": "2369.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-06-29",
+    "disposal_type": "AUC",
+    "premium": "470000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 480",
+        "address": "KWAI LUEN ROAD, KWAI CHUNG",
+        "user": "R1",
+        "area_sqm": "3746.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-06-29",
+    "disposal_type": "AUC",
+    "premium": "44000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 167",
+        "address": "AREA 12, TAI PO",
+        "user": "R3",
+        "area_sqm": "2611.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-8-4",
+    "disposal_type": "AUC",
+    "premium": "134000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1147",
+        "address": "No. 99 PEAK ROAD/NO.4 GOUGH HILL PATH, THE PEAK",
+        "user": "R3",
+        "area_sqm": "2463.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-8-4",
+    "disposal_type": "AUC",
+    "premium": "330000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 371",
+        "address": "CASTLE PEAK ROAD, AREA 58, SIU LAM, TUEN MUN",
+        "user": "R3",
+        "area_sqm": "16469.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-8-4",
+    "disposal_type": "AUC",
+    "premium": "320000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 408",
+        "address": "HANG KWAI STREET, AREA 16, TUEN MUN",
+        "user": "R1",
+        "area_sqm": "4765.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-8-4",
+    "disposal_type": "AUC",
+    "premium": "4500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1847 IN DD CHEUNG CHAU",
+        "address": "SAI WAN, CHEUNG CHAU",
+        "user": "R4",
+        "area_sqm": "2130.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-09-24",
+    "disposal_type": "TEN",
+    "premium": "583000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11076",
+        "address": "HUNG HOM BAY RECLAMATION AREA, KOWLOON",
+        "user": "PSPS",
+        "area_sqm": "27818.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-10-14",
+    "disposal_type": "AUC",
+    "premium": "555000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TSWTL 27",
+        "address": "TIN SHUI WAI, YUEN LONG",
+        "user": "R1",
+        "area_sqm": "14901.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-10-14",
+    "disposal_type": "AUC",
+    "premium": "151000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1142",
+        "address": "ADJOINING NO. 14 SOUTH BAY ROAD",
+        "user": "R3",
+        "area_sqm": "2267.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-12-13",
+    "disposal_type": "AUC",
+    "premium": "1340000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11107",
+        "address": "HOI FAN ROAD, WEST KOWLOON RECLAMATION",
+        "user": "R1",
+        "area_sqm": "6943.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-12-13",
+    "disposal_type": "AUC",
+    "premium": "152000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 165",
+        "address": "AREA 38,TAI PO",
+        "user": "R3",
+        "area_sqm": "14985.00"
+      }
+    ]
+  },
+  {
+    "date": "1999-12-14",
+    "disposal_type": "TEN",
+    "premium": "238800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6267",
+        "address": "KING TUNG STREET NGAU CHI WAN",
+        "user": "PSPS",
+        "area_sqm": "21560.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-01-18",
+    "disposal_type": "TEN",
+    "premium": "8000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1158",
+        "address": "Chung Hom Kok, Hong Kong",
+        "user": "External Telecommunications Stations",
+        "area_sqm": "2578.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-02-29",
+    "disposal_type": "AUC",
+    "premium": "490000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1148",
+        "address": "SEVERN ROAD, HONG KONG",
+        "user": "R3",
+        "area_sqm": "13570.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-02-29",
+    "disposal_type": "AUC",
+    "premium": "170000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "SIL 845",
+        "address": "YIU HING ROAD, SHAUKEIWAN, HONG KONG",
+        "user": "R1",
+        "area_sqm": "880.80"
+      }
+    ]
+  },
+  {
+    "date": "2000-02-29",
+    "disposal_type": "AUC",
+    "premium": "17200000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "Lot 736 in D.D. 332",
+        "address": "CHEUNG SHA, LANTAU ISLAND",
+        "user": "R4",
+        "area_sqm": "3380.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-3-10",
+    "disposal_type": "TEN",
+    "premium": "404000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TSWTL 28",
+        "address": "AREA 111 TIN SHUI WAI,YUEN LONG",
+        "user": "PSPS",
+        "area_sqm": "43705.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-03-28",
+    "disposal_type": "TEN",
+    "premium": "739900000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "AplIL 128",
+        "address": "AP LEI CHAU DRIVE, ABERDEEN",
+        "user": "Mixed Development",
+        "area_sqm": "9301.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-04-25",
+    "disposal_type": "AUC",
+    "premium": "1900000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6275",
+        "address": "JUNCTION OF HING WAH STREET WEST & SHAM SHING ROAD, WEST KOWLOON RECLAMATION",
+        "user": "R1",
+        "area_sqm": "16064.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-04-25",
+    "disposal_type": "AUC",
+    "premium": "130000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1143",
+        "address": "ADJOINING NOS. 16-18 SOUTH BAY ROAD, REPULSE BAY",
+        "user": "R3",
+        "area_sqm": "1925.20"
+      }
+    ]
+  },
+  {
+    "date": "2000-04-29",
+    "disposal_type": "TEN",
+    "premium": "106800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 484",
+        "address": "KWAI SHING CIRCUIT, KWAI CHUNG",
+        "user": "PSPS",
+        "area_sqm": "9100.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-6-12",
+    "disposal_type": "AUC",
+    "premium": "251000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11122",
+        "address": "JUNCTION OF CARMEL VILLAGE STREET AND HAU MAN STREET, KOWLOON",
+        "user": "R1",
+        "area_sqm": "1420.60"
+      }
+    ]
+  },
+  {
+    "date": "2000-6-12",
+    "disposal_type": "AUC",
+    "premium": "93000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 943 in D.D. 94",
+        "address": "BEAS STABLE, SHEUNG SHUI, NEW TERRITORIES",
+        "user": "R4",
+        "area_sqm": "22973.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-06-16",
+    "disposal_type": "TEN",
+    "premium": "2508000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11118",
+        "address": "JUNCTION OF PRINCESS MARGARET ROAD AND WYLIE ROAD, KOWLOON",
+        "user": "R2",
+        "area_sqm": "36006.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-06-19",
+    "disposal_type": "TEN",
+    "premium": "850000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6338",
+        "address": "HING WAH STREET WEST, WEST KOWLOON RECLAMATION, KOWLOON",
+        "user": "Mixed Development",
+        "area_sqm": "14900.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-08-16",
+    "disposal_type": "TEN",
+    "premium": "18000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 81",
+        "address": "AREA 106, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+        "user": "OU",
+        "area_sqm": "14600.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-08-24",
+    "disposal_type": "TEN",
+    "premium": "75790000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TYTL 163",
+        "address": "TSING KING ROAD, TSING YI, NEW TERRITORIES",
+        "user": "PSPS",
+        "area_sqm": "6043.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-08-29",
+    "disposal_type": "AUC",
+    "premium": "865000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 481",
+        "address": "AREA 77,  MA ON SHAN,   NEW TERRITORIES",
+        "user": "R2",
+        "area_sqm": "11380.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-08-29",
+    "disposal_type": "AUC",
+    "premium": "292000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TWTL 404",
+        "address": "AREA 40, ROUTE TWISK, TSUEN WAN, NEW TERRITORIES",
+        "user": "R3",
+        "area_sqm": "6970.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-09-26",
+    "disposal_type": "TEN",
+    "premium": "128300000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6280",
+        "address": "J/O SHEUNG YEE ROAD AND WANG TAI ROAD, KOWLOON BAY",
+        "user": "I/O and LPG Vehicle Repair Workshop",
+        "area_sqm": "5480.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-10-5",
+    "disposal_type": "AUC",
+    "premium": "835000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TWTL 395",
+        "address": "AREA 40, ROUTE TWISK, TSUEN WAN",
+        "user": "R3",
+        "area_sqm": "25630.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-10-5",
+    "disposal_type": "AUC",
+    "premium": "540000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11145",
+        "address": "J/O FARM ROAD AND MA TAU WAI ROAD, MA TAU WAI",
+        "user": "R1",
+        "area_sqm": "2765.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-10-5",
+    "disposal_type": "AUC",
+    "premium": "240000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 214 in DD 387",
+        "address": "SHAM TSENG, TSUEN WAN",
+        "user": "R3",
+        "area_sqm": "7845.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-10-31",
+    "disposal_type": "TEN",
+    "premium": "80000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1154",
+        "address": "CHUNG HOM KOK, HONG KONG",
+        "user": "EXTERNAL TELECOMMUNICATIONS STATION",
+        "area_sqm": "2275.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-10-31",
+    "disposal_type": "TEN",
+    "premium": "40000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1155",
+        "address": "CHUNG HOM KOK, HONG KONG",
+        "user": "EXTERNAL TELECOMMUNICATIONS STATION",
+        "area_sqm": "2257.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-12-7",
+    "disposal_type": "AUC",
+    "premium": "2580000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11152",
+        "address": "HOI FAI ROAD, WEST KOWLOON RECLAMATION, KOWLOON",
+        "user": "R1",
+        "area_sqm": "20200.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-12-7",
+    "disposal_type": "AUC",
+    "premium": "21000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 14 in DD 231",
+        "address": "CHUK KOK, SAI KUNG, NEW TERRITORIES",
+        "user": "R4",
+        "area_sqm": "2790.00"
+      }
+    ]
+  },
+  {
+    "date": "2000-12-14",
+    "disposal_type": "TEN",
+    "premium": "2430000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8955",
+        "address": "SAI WAN HO FERRY CONCOURSE",
+        "user": "R1",
+        "area_sqm": "12200.00"
+      }
+    ]
+  },
+  {
+    "date": "2001-02-19",
+    "disposal_type": "AUC",
+    "premium": "560000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 483",
+        "address": "AREA 77,  MA ON SHAN, SHA TIN, NEW TERRITORIES",
+        "user": "R2",
+        "area_sqm": "7296.00"
+      }
+    ]
+  },
+  {
+    "date": "2001-02-19",
+    "disposal_type": "AUC",
+    "premium": "73500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "Lot 1144 in DD 215",
+        "address": "TUI MIN HOI, SAI KUNG, NEW TERRITORIES",
+        "user": "R3",
+        "area_sqm": "5140.00"
+      }
+    ]
+  },
+  {
+    "date": "2001-06-19",
+    "disposal_type": "AUC",
+    "premium": "38500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 209",
+        "address": "J/O LOK HA SQUARE, LOK LIN PATH, AREA 43, SHA TIN",
+        "user": "R3",
+        "area_sqm": "2710.00"
+      }
+    ]
+  },
+  {
+    "date": "2001-06-19",
+    "disposal_type": "AUC",
+    "premium": "41000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TWTL 400",
+        "address": "SZE PEI SQUARE, TSUEN WAN",
+        "user": "CR",
+        "area_sqm": "389.80"
+      }
+    ]
+  },
+  {
+    "date": "2001-07-27",
+    "disposal_type": "TEN",
+    "premium": "5100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TYTL 168",
+        "address": "TAM KON SHAN ROAD, AREA 9, TSING YI",
+        "user": "SHIPYARD",
+        "area_sqm": "2215.00"
+      }
+    ]
+  },
+  {
+    "date": "2001-07-27",
+    "disposal_type": "TEN",
+    "premium": "1800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TYTL 169",
+        "address": "TAM KON SHAN ROAD, AREA 9, TSING YI",
+        "user": "SHIPYARD",
+        "area_sqm": "1685.00"
+      }
+    ]
+  },
+  {
+    "date": "2001-08-13",
+    "disposal_type": "AUC",
+    "premium": "1090000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11110",
+        "address": "HUNG HOM BAY RECLAMATION, KOWLOON",
+        "user": "C",
+        "area_sqm": "20364.00"
+      }
+    ]
+  },
+  {
+    "date": "2001-08-13",
+    "disposal_type": "AUC",
+    "premium": "148000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 1184 in DD 217",
+        "address": "MAN KEI TOI, PAK SHA WAN, SAI KUNG",
+        "user": "R3",
+        "area_sqm": "17800.00"
+      }
+    ]
+  },
+  {
+    "date": "2001-08-13",
+    "disposal_type": "AUC",
+    "premium": "44000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT No. 2052 in DD 121",
+        "address": "OFF PING CHUK LANE, PING SHAN, YUEN LONG",
+        "user": "R1",
+        "area_sqm": "2517.00"
+      }
+    ]
+  },
+  {
+    "date": "2001-10-16",
+    "disposal_type": "AUC",
+    "premium": "655000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11103",
+        "address": "HUNG HOM BAY RECLAMATION, KOWLOON",
+        "user": "Commercial and Multi-storey Carpark",
+        "area_sqm": "9940.00"
+      }
+    ]
+  },
+  {
+    "date": "2001-10-16",
+    "disposal_type": "AUC",
+    "premium": "110000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6378",
+        "address": "2 & 4 CALDECOTT ROAD, PIPER'S HILL, KOWLOON",
+        "user": "R3",
+        "area_sqm": "3297.00"
+      }
+    ]
+  },
+  {
+    "date": "2001-10-16",
+    "disposal_type": "AUC",
+    "premium": "23500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "Lot No. 348 in DD 252",
+        "address": "TAI MONG TSAI,  SAI KUNG, NEW TERRITORIES",
+        "user": "R4",
+        "area_sqm": "4861.00"
+      }
+    ]
+  },
+  {
+    "date": "2001-12-4",
+    "disposal_type": "AUC",
+    "premium": "170000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6379",
+        "address": "3 CALDECOTT ROAD, PIPER'S HILL, KOWLOON",
+        "user": "R3",
+        "area_sqm": "5872.00"
+      }
+    ]
+  },
+  {
+    "date": "2001-12-4",
+    "disposal_type": "AUC",
+    "premium": "62000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "Lot No. 2051 in DD 121",
+        "address": "OFF PING CHUK LANE, PING SHAN, YUEN LONG,  NEW TERRITORIES",
+        "user": "R1",
+        "area_sqm": "3754.00"
+      }
+    ]
+  },
+  {
+    "date": "2002-2-4",
+    "disposal_type": "AUC",
+    "premium": "264000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 432",
+        "address": "HOI CHU ROAD, AREA 16, TUEN MUN, NEW TERRITORIES",
+        "user": "R1",
+        "area_sqm": "6090.00"
+      }
+    ]
+  },
+  {
+    "date": "2002-2-4",
+    "disposal_type": "AUC",
+    "premium": "37000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 168",
+        "address": "AREA 11, TAI PO KAU, TAI PO, NEW TERRITORIES",
+        "user": "R3",
+        "area_sqm": "4200.00"
+      }
+    ]
+  },
+  {
+    "date": "2002-04-15",
+    "disposal_type": "AUC",
+    "premium": "1640000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11158",
+        "address": "HOI FAI ROAD, WEST KOWLOON RECLAMATION, KOWLOON",
+        "user": "R1",
+        "area_sqm": "10450.00"
+      }
+    ]
+  },
+  {
+    "date": "2002-04-15",
+    "disposal_type": "AUC",
+    "premium": "570000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6196",
+        "address": "JUNCTION OF CORNWALL STREET AND TAT CHEE AVENUE, KOWLOON",
+        "user": "R3",
+        "area_sqm": "14700.00"
+      }
+    ]
+  },
+  {
+    "date": "2002-04-15",
+    "disposal_type": "AUC",
+    "premium": "660000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 526",
+        "address": "No. 2 LOK KWAI PATH, AREA 43, SHA TIN, NEW TERRITORIES",
+        "user": "R3",
+        "area_sqm": "19300.00"
+      }
+    ]
+  },
+  {
+    "date": "2002-04-15",
+    "disposal_type": "AUC",
+    "premium": "100000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1164",
+        "address": "CAPE ROAD, CHUNG HOM KOK, HONG KONG",
+        "user": "R3",
+        "area_sqm": "3720.00"
+      }
+    ]
+  },
+  {
+    "date": "2002-06-17",
+    "disposal_type": "AUC",
+    "premium": "310000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8930",
+        "address": "NO. 632 KING'S ROAD, NORTH POINT, HONG KONG",
+        "user": "R1",
+        "area_sqm": "1400.40"
+      }
+    ]
+  },
+  {
+    "date": "2002-06-17",
+    "disposal_type": "AUC",
+    "premium": "112000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 499",
+        "address": "KONG PUI STREET, AREA 5B, SHA TIN, NEW TERRITORIES",
+        "user": "R1",
+        "area_sqm": "1358.80"
+      }
+    ]
+  },
+  {
+    "date": "2002-9-10",
+    "disposal_type": "AUC",
+    "premium": "290000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6418",
+        "address": "SA PO ROAD, KOWLOON",
+        "user": "R1",
+        "area_sqm": "2305.00"
+      }
+    ]
+  },
+  {
+    "date": "2002-9-10",
+    "disposal_type": "AUC",
+    "premium": "83000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "AIL 450",
+        "address": "47 SHEK PAI WAN ROAD, ABERDEEN, HONG KONG",
+        "user": "Residential/Commercial",
+        "area_sqm": "675.40"
+      }
+    ]
+  },
+  {
+    "date": "2003-5-26",
+    "disposal_type": "TEN",
+    "premium": "352800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11161",
+        "address": "SALISBURYROAD, TSIM SHA TSUI,KOWLOON",
+        "user": "C",
+        "area_sqm": "12289.00"
+      }
+    ]
+  },
+  {
+    "date": "2003-7-TENDER WITHDRAWN ON 11",
+    "disposal_type": "TEN",
+    "premium": "-",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT NO. 686IN MA WAN",
+        "address": "SOUTH OF MA WAN ISLAND, NEW TERRITORIES",
+        "user": "RECREATIONAL (THEME PARK)",
+        "area_sqm": "-"
+      }
+    ]
+  },
+  {
+    "date": "2003-9-4",
+    "disposal_type": "TEN",
+    "premium": "45500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6409",
+        "address": "CORNWALLSTREET, KOWLOON TONG, KOWLOON",
+        "user": "PFS",
+        "area_sqm": "1025.40"
+      }
+    ]
+  },
+  {
+    "date": "2003-9-4",
+    "disposal_type": "TEN",
+    "premium": "84318000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 484",
+        "address": "AREA 86B, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+        "user": "PFS",
+        "area_sqm": "1067.90"
+      }
+    ]
+  },
+  {
+    "date": "2003-9-4",
+    "disposal_type": "TEN",
+    "premium": "40638000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TYTL 170",
+        "address": "TSING YI ROAD WEST, TSING YI, NEW TERRITORIES",
+        "user": "PFS",
+        "area_sqm": "1991.40"
+      }
+    ]
+  },
+  {
+    "date": "2003-9-4",
+    "disposal_type": "TEN",
+    "premium": "64038000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "CWIL 171",
+        "address": "JUNCTION OF SHEUNG MAU STREET, SHEUNG ON STREET AND SHING TAI ROAD, CHAI WAN, HONG KONG",
+        "user": "PFS",
+        "area_sqm": "3960.00"
+      }
+    ]
+  },
+  {
+    "date": "2004-1-29",
+    "disposal_type": "TEN",
+    "premium": "303860000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8984",
+        "address": "MACDONNELL ROAD, HONG KONG",
+        "user": "PFS",
+        "area_sqm": "236.80"
+      },
+      {
+        "lot_no": "IL 8988",
+        "address": "KENNEDY ROAD, WANCHAI, HONGKONG",
+        "user": "PFS",
+        "area_sqm": "837.20"
+      },
+      {
+        "lot_no": "NKIL6417",
+        "address": "WANG CHINSTREET, KOWLOON BAY, KOWLOON",
+        "user": "PFS",
+        "area_sqm": "1423.30"
+      },
+      {
+        "lot_no": "TPTL 151",
+        "address": "TAI PO KAU, TAI PO, NEW TERRITORIES",
+        "user": "PFS",
+        "area_sqm": "3167.00"
+      },
+      {
+        "lot_no": "TCTL9",
+        "address": "TUNG CHUNGNEW TOWN AREA 58, LANTAU ISLAND",
+        "user": "PFS",
+        "area_sqm": "1237.90"
+      }
+    ]
+  },
+  {
+    "date": "2004-5-8",
+    "disposal_type": "TEN",
+    "premium": "501000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 8985",
+        "address": "137 TAI HANG ROAD, JARDINE’S LOOKOUT, HONG KONG",
+        "user": "PFS",
+        "area_sqm": "917.00"
+      },
+      {
+        "lot_no": "IL 8986",
+        "address": "80 POK FU LAM ROAD, HONG KONG",
+        "user": "PFS",
+        "area_sqm": "742.00"
+      },
+      {
+        "lot_no": "TCTL 24",
+        "address": "TUNG CHUNG NEW TOWN, AREA 26, LANTAU ISLAND",
+        "user": "PFS",
+        "area_sqm": "1125.00"
+      },
+      {
+        "lot_no": "TKOTL 89",
+        "address": "PO HONG ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+        "user": "PFS",
+        "area_sqm": "3349.00"
+      },
+      {
+        "lot_no": "TWTL 408",
+        "address": "YEUNG UK ROAD, TSUEN WAN, NEW TERRITORIES",
+        "user": "PFS",
+        "area_sqm": "832.50"
+      }
+    ]
+  },
+  {
+    "date": "2004-5-25",
+    "disposal_type": "AUC",
+    "premium": "2090000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 487",
+        "address": "AREA 77, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+        "user": "R2",
+        "area_sqm": "14006.00"
+      }
+    ]
+  },
+  {
+    "date": "2004-5-25",
+    "disposal_type": "AUC",
+    "premium": "865000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 510",
+        "address": "TUNG LO WAN HILL ROAD, SHA TIN, NEW TERRITORIES",
+        "user": "R2",
+        "area_sqm": "10626.00"
+      }
+    ]
+  },
+  {
+    "date": "2004-6-15",
+    "disposal_type": "AUC",
+    "premium": "1010000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6330",
+        "address": "SA PO ROAD, KOWLOON",
+        "user": "R1",
+        "area_sqm": "3521.00"
+      }
+    ]
+  },
+  {
+    "date": "2004-10-12",
+    "disposal_type": "AUC",
+    "premium": "9420000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11124",
+        "address": "SHEUNG SHING STREET, HOMANTIN, KOWLOON",
+        "user": "R1",
+        "area_sqm": "17756.00"
+      }
+    ]
+  },
+  {
+    "date": "2004-10-12",
+    "disposal_type": "AUC",
+    "premium": "4700000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6308",
+        "address": "JUNCTION OF KING FUK STREET, KING TAI STREET AND PRINCE EDWARD ROAD EAST, SAN PO KONG, KOWLOON",
+        "user": "R1",
+        "area_sqm": "12701.00"
+      }
+    ]
+  },
+  {
+    "date": "2005-2-22",
+    "disposal_type": "AUC",
+    "premium": "1820000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6310",
+        "address": "JUNCTION OF SHEUNG YUET ROAD AND WANG CHIU ROAD, KOWLOON",
+        "user": "NR",
+        "area_sqm": "4715.00"
+      }
+    ]
+  },
+  {
+    "date": "2005-6-3",
+    "disposal_type": "TEN",
+    "premium": "358660000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 9008",
+        "address": "POK FU LAM ROAD, HONG KONG",
+        "user": "PFS",
+        "area_sqm": "933.40"
+      },
+      {
+        "lot_no": "IL 8994",
+        "address": "No. 892 KING’S ROAD, QUARRY BAY, HONG KONG",
+        "user": "PFS",
+        "area_sqm": "570.50"
+      },
+      {
+        "lot_no": "KIL 11177",
+        "address": "PRINCE EDWARD ROAD WEST, KOWLOON",
+        "user": "PFS",
+        "area_sqm": "565.80"
+      },
+      {
+        "lot_no": "TCTL 29",
+        "address": "TUNG CHUNG NEW TOWN, AREA 58, TUNG CHUNG",
+        "user": "PFS",
+        "area_sqm": "1352.40"
+      }
+    ]
+  },
+  {
+    "date": "2005-9-27",
+    "disposal_type": "AUC",
+    "premium": "3190000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11168",
+        "address": "HOI TING ROAD, WEST KOWLOON RECLAMATION AREA",
+        "user": "R1",
+        "area_sqm": "7397.00"
+      }
+    ]
+  },
+  {
+    "date": "2005-9-27",
+    "disposal_type": "AUC",
+    "premium": "2730000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11167",
+        "address": "JUNCTION OF HOI WANG ROAD AND HOI TING ROAD,WEST KOWLOON RECLAMATION AREA",
+        "user": "R1",
+        "area_sqm": "6179.00"
+      }
+    ]
+  },
+  {
+    "date": "2005-9-27",
+    "disposal_type": "AUC",
+    "premium": "4230000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6350",
+        "address": "FUNG SHING STREET, NGAU CHI WAN, KOWLOON",
+        "user": "R2",
+        "area_sqm": "14459.00"
+      }
+    ]
+  },
+  {
+    "date": "2005-12-28",
+    "disposal_type": "TEN",
+    "premium": "164600000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11180",
+        "address": "WATERLOO ROAD, KOWLOON",
+        "user": "PFS",
+        "area_sqm": "510.90"
+      },
+      {
+        "lot_no": "IL 8989",
+        "address": "CANAL ROAD WEST, CAUSEWAY BAY, HONG KONG",
+        "user": "PFS",
+        "area_sqm": "984.20"
+      }
+    ]
+  },
+  {
+    "date": "2006-07-18",
+    "disposal_type": "AUC",
+    "premium": "30500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "Lot 246 in DD 331",
+        "address": "CHEUNG SHA, LANTAU ISLAND, NEW TERRITORIES",
+        "user": "R4",
+        "area_sqm": "2240.00"
+      }
+    ]
+  },
+  {
+    "date": "2006-09-12",
+    "disposal_type": "AUC",
+    "premium": "53000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TLTL 68",
+        "address": "CASTLE PEAK ROAD – TSING LUNG TAU, NEW TERRITORIES",
+        "user": "R3",
+        "area_sqm": "2076.00"
+      }
+    ]
+  },
+  {
+    "date": "2006-11-28",
+    "disposal_type": "AUC",
+    "premium": "1940000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6374",
+        "address": "1 BROADCAST DRIVE, KOWLOON TONG, KOWLOON",
+        "user": "R2",
+        "area_sqm": "6088.00"
+      }
+    ]
+  },
+  {
+    "date": "2006-11-28",
+    "disposal_type": "AUC",
+    "premium": "3240000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 548",
+        "address": "AREA 77, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+        "user": "R2",
+        "area_sqm": "16440.00"
+      }
+    ]
+  },
+  {
+    "date": "2006-12-19",
+    "disposal_type": "AUC",
+    "premium": "1800000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1159",
+        "address": "NO. 12 MOUNT KELLETT ROAD, THE PEAK, HONG KONG",
+        "user": "R3",
+        "area_sqm": "7353.00"
+      }
+    ]
+  },
+  {
+    "date": "2007-03-13",
+    "disposal_type": "AUC",
+    "premium": "2110000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 187",
+        "address": "PAK SHEK KOK RECLAMATION PHASE I, SITE A, TAI PO, NEW TERRITORIES",
+        "user": "R2",
+        "area_sqm": "10028.00"
+      }
+    ]
+  },
+  {
+    "date": "2007-03-13",
+    "disposal_type": "AUC",
+    "premium": "3500000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 188",
+        "address": "PAK SHEK KOK RECLAMATION PHASE I, SITE C, TAI PO, NEW TERRITORIES",
+        "user": "R2",
+        "area_sqm": "19902.00"
+      }
+    ]
+  },
+  {
+    "date": "2007-03-13",
+    "disposal_type": "AUC",
+    "premium": "570000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 195",
+        "address": "JUNCTION OF PLOVER COVE ROAD AND PO WU LANE, TAI PO, NEW TERRITORIES",
+        "user": "CR",
+        "area_sqm": "2750.00"
+      }
+    ]
+  },
+  {
+    "date": "2007-03-23",
+    "disposal_type": "TEN",
+    "premium": "2080000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 193",
+        "address": "AREA 27, YIM TIN TSAI, TAI PO, NEW TERRITORIES",
+        "user": "MARINE FUELLING STATION",
+        "area_sqm": "670.10"
+      }
+    ]
+  },
+  {
+    "date": "TENDER WITHDRAWN ON 2007-03-27.",
+    "disposal_type": "TEN",
+    "premium": "-",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TCTL 25",
+        "address": "CHUNG WAI STREET, TUNG CHUNG, LANTAU",
+        "user": "WORKSHOP",
+        "area_sqm": "-"
+      }
+    ]
+  },
+  {
+    "date": "2007-03-27",
+    "disposal_type": "AUC",
+    "premium": "96500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "Lot No. 1848 in D.D. Cheung Chau",
+        "address": "SHUI HANG, CHEUNG CHAU",
+        "user": "R4",
+        "area_sqm": "10382.00"
+      }
+    ]
+  },
+  {
+    "date": "2007-05-08",
+    "disposal_type": "AUC",
+    "premium": "4000000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11073",
+        "address": "JUNCTION OF HOI WANG ROAD, YAN CHEUNG ROAD AND YAU CHEUNG ROAD, WEST KOWLOON RECLAMATION AREA, KOWLOON",
+        "user": "R1",
+        "area_sqm": "8060.00"
+      }
+    ]
+  },
+  {
+    "date": "2007-05-29",
+    "disposal_type": "AUC",
+    "premium": "960000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 422",
+        "address": "TSING LUNG ROAD, AREA 58, SIU LAM, TUEN MUN, NEW TERRITORIES",
+        "user": "R3",
+        "area_sqm": "15030.00"
+      }
+    ]
+  },
+  {
+    "date": "2007-05-29",
+    "disposal_type": "AUC",
+    "premium": "780000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 449",
+        "address": "TSING FAT LANE, AREA 58, SIU LAM, TUEN MUN, NEW TERRITORIES",
+        "user": "R3",
+        "area_sqm": "17042.00"
+      }
+    ]
+  },
+  {
+    "date": "2007-06-12",
+    "disposal_type": "AUC",
+    "premium": "5560000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11146",
+        "address": "HOI FAI ROAD, KOWLOON",
+        "user": "R1",
+        "area_sqm": "11353.00"
+      }
+    ]
+  },
+  {
+    "date": "2007-07-31",
+    "disposal_type": "AUC",
+    "premium": "3980000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6309",
+        "address": "3 CHUN YAN STREET, WONG TAI SIN, KOWLOON",
+        "user": "R1",
+        "area_sqm": "9502.00"
+      }
+    ]
+  },
+  {
+    "date": "2007-09-12",
+    "disposal_type": "TEN",
+    "premium": "402100000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11185",
+        "address": "WATERLOO ROAD, KOWLOON",
+        "user": "PFS",
+        "area_sqm": "612.20"
+      },
+      {
+        "lot_no": "KIL 11194",
+        "address": "PRINCESS MARGARET ROAD, KOWLOON",
+        "user": "PFS",
+        "area_sqm": "373.90"
+      },
+      {
+        "lot_no": "YLTL 523",
+        "address": "CASTLE PEAK ROAD, YUEN LONG, NEW TERRITORIES",
+        "user": "PFS",
+        "area_sqm": "1953.50"
+      }
+    ]
+  },
+  {
+    "date": "2007-09-17",
+    "disposal_type": "AUC",
+    "premium": "4550000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 186",
+        "address": "PAK SHEK KOK DEVELOPMENT AREA, PHASE 1, SITE B, TAI PO, NEW TERRITORIES",
+        "user": "R2",
+        "area_sqm": "22126.00"
+      }
+    ]
+  },
+  {
+    "date": "2007-10-15",
+    "disposal_type": "AUC",
+    "premium": "5710000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "AIL 451",
+        "address": "WELFARE ROAD,ABERDEEN, HONG KONG",
+        "user": "R1",
+        "area_sqm": "6403.00"
+      }
+    ]
+  },
+  {
+    "date": "2007-10-15",
+    "disposal_type": "AUC",
+    "premium": "482000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 245 IN DD 331",
+        "address": "CHEUNG SHA, LANTAU ISLAND, NEW TERRITORIES",
+        "user": "R4",
+        "area_sqm": "16587.00"
+      }
+    ]
+  },
+  {
+    "date": "2007-12-20",
+    "disposal_type": "TEN",
+    "premium": "50800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "RBL 1185",
+        "address": "PEAK ROAD, HONG KONG",
+        "user": "PFS",
+        "area_sqm": "330.80"
+      }
+    ]
+  },
+  {
+    "date": "2007-12-20",
+    "disposal_type": "TEN",
+    "premium": "60800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT 2137 IN DD 121",
+        "address": "CASTLE PEAK ROADNEAR FUI SHA WAI, YUEN LONG, NEW TERRITORIES",
+        "user": "PFS",
+        "area_sqm": "2242.00"
+      }
+    ]
+  },
+  {
+    "date": "2007-12-20",
+    "disposal_type": "TEN",
+    "premium": "238000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11186",
+        "address": "PRINCESS MARGARET ROAD, KOWLOON",
+        "user": "PFS",
+        "area_sqm": "370.60"
+      }
+    ]
+  },
+  {
+    "date": "2007-12-20",
+    "disposal_type": "TEN",
+    "premium": "50500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11187",
+        "address": "WATERLOO ROAD, KOWLOON",
+        "user": "PFS",
+        "area_sqm": "831.90"
+      }
+    ]
+  },
+  {
+    "date": "2008-02-18",
+    "disposal_type": "TEN",
+    "premium": "408000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 235",
+        "address": "SAN FUNG AVENUE,SHEUNG SHUI, NEWTERRITORIES",
+        "user": "PFS",
+        "area_sqm": "634.00"
+      },
+      {
+        "lot_no": "RBL 1184",
+        "address": "PEAK ROAD, HONG KONG",
+        "user": "PFS",
+        "area_sqm": "375.40"
+      },
+      {
+        "lot_no": "KCTL 504",
+        "address": "CASTLE PEAK ROAD, KWAI CHUNG, NEW TERRITORIES",
+        "user": "PFS",
+        "area_sqm": "816.10"
+      }
+    ]
+  },
+  {
+    "date": "2008-04-22",
+    "disposal_type": "TEN",
+    "premium": "648180000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 507",
+        "address": "CONTAINER PORT ROAD SOUTH, KWAI CHUNG, NEW TERRITORIES, HONG KONG",
+        "user": "LOGISTICS DEVELOPMENT PURPOSES",
+        "area_sqm": "23 315.00"
+      }
+    ]
+  },
+  {
+    "date": "2008-05-09",
+    "disposal_type": "AUC",
+    "premium": "16500000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT NO. 1200 IN DD NO. 217",
+        "address": "PAK SHA WAN, SAI KUNG, NEW TERRITORIES",
+        "user": "R3",
+        "area_sqm": "191.40"
+      }
+    ]
+  },
+  {
+    "date": "TENDER WITHDRAWN ON 2008-07-09",
+    "disposal_type": "TEN",
+    "premium": "-",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6488",
+        "address": "AT THE FORMER KAI TAK RUNWAY, KOWLOON",
+        "user": "CRUISE TERMINAL",
+        "area_sqm": "-"
+      }
+    ]
+  },
+  {
+    "date": "2009-02-13",
+    "disposal_type": "TEN",
+    "premium": "148980000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KCTL 508",
+        "address": "CASTLE PEAK ROAD, KWAI CHUNG, NEW TERRITORIES",
+        "user": "PFS",
+        "area_sqm": "1040.50"
+      }
+    ]
+  },
+  {
+    "date": "2009-04-29",
+    "disposal_type": "TEN",
+    "premium": "59509000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "StIL 115",
+        "address": "STANLEY VILLAGE ROAD, STANLEY, HONG KONG",
+        "user": "PFS",
+        "area_sqm": "825.70"
+      }
+    ]
+  },
+  {
+    "date": "2009-04-29",
+    "disposal_type": "TEN",
+    "premium": "168682000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 237",
+        "address": "JOCKEY CLUB ROAD, ON LOK TSUEN, FANLING, NEW TERRITORIES",
+        "user": "PFS",
+        "area_sqm": "937.90"
+      }
+    ]
+  },
+  {
+    "date": "2009-05-05",
+    "disposal_type": "AUC",
+    "premium": "61000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 225",
+        "address": "89-95 SAN FUNG AVENUE, SHEK WU HUI, SHEUNG SHUI, NEW TERRITORIES",
+        "user": "CR",
+        "area_sqm": "305.80"
+      }
+    ]
+  },
+  {
+    "date": "2009-08-03",
+    "disposal_type": "TEN",
+    "premium": "237800000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TMTL 486",
+        "address": "TUEN YAN STREET, AREA 37A, TUEN MUN, NEW TERRITORIES",
+        "user": "PFS",
+        "area_sqm": "525.60"
+      },
+      {
+        "lot_no": "TPTL 203",
+        "address": "AREA 2, TAI PO, NEW TERRITORIES",
+        "user": "PFS",
+        "area_sqm": "870.00"
+      }
+    ]
+  },
+  {
+    "date": "2009-12-28",
+    "disposal_type": "AUC",
+    "premium": "5150000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 200",
+        "address": "PAK SHEK KOK DEVELOPMENT AREA, SITE D1, TAI PO, NEW TERRITORIES",
+        "user": "R3",
+        "area_sqm": "20925.00"
+      }
+    ]
+  },
+  {
+    "date": "2009-12-28",
+    "disposal_type": "AUC",
+    "premium": "5250000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 201",
+        "address": "PAK SHEK KOK DEVELOPMENT AREA, SITE D2, TAI PO, NEW TERRITORIES",
+        "user": "R3",
+        "area_sqm": "20925.00"
+      }
+    ]
+  },
+  {
+    "date": "2010-02-19",
+    "disposal_type": "TEN",
+    "premium": "131900000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TPTL 205",
+        "address": "AREA 22, TAI PO, NEW TERRITORIES",
+        "user": "PFS",
+        "area_sqm": "737.00"
+      }
+    ]
+  },
+  {
+    "date": "2010-02-19",
+    "disposal_type": "TEN",
+    "premium": "37050000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "LOT NO. 817 IN DD NO. 110",
+        "address": "KAM TIN ROAD, YUEN LONG, NEW TERRITORIES",
+        "user": "PFS",
+        "area_sqm": "1300.00"
+      }
+    ]
+  },
+  {
+    "date": "2010-02-22",
+    "disposal_type": "AUC",
+    "premium": "3370000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TKOTL 76",
+        "address": "AREA 66B, TSEUNG KWAN O, NEW TERRITORIES",
+        "user": "R1",
+        "area_sqm": "12300.00"
+      }
+    ]
+  },
+  {
+    "date": "2010-05-11",
+    "disposal_type": "AUC",
+    "premium": "3420000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TCTL 37",
+        "address": "AREA 55B, TUNG CHUNG, LANTAU ISLAND",
+        "user": "R2",
+        "area_sqm": "26200.00"
+      }
+    ]
+  },
+  {
+    "date": "2010-05-24",
+    "disposal_type": "AUC",
+    "premium": "1330000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 177",
+        "address": "JUNCTION OF MA SIK ROAD AND SHA TAU KOK ROAD (LUNG YEUK TAU SECTION), AREA 19, FANLING, NEW TERRITORIES",
+        "user": "R1",
+        "area_sqm": "8900.00"
+      }
+    ]
+  },
+  {
+    "date": "2010-06-08",
+    "disposal_type": "AUC",
+    "premium": "10900000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11175",
+        "address": "JUNCTION OF FAT KWONG STREET AND CHUNG HAU STREET, HO MAN TIN, KOWLOON",
+        "user": "R2",
+        "area_sqm": "16151.00"
+      }
+    ]
+  },
+  {
+    "date": "2010-06-10",
+    "disposal_type": "TEN",
+    "premium": "315600000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "AIL 457",
+        "address": "ABERDEEN MAIN ROAD, ABERDEEN, HONG KONG",
+        "user": "PFS",
+        "area_sqm": "199.00"
+      },
+      {
+        "lot_no": "NKIL6507",
+        "address": "201 WATERLOO ROAD, KOWLOON",
+        "user": "PFS",
+        "area_sqm": "352.40"
+      }
+    ]
+  },
+  {
+    "date": "2010-07-28",
+    "disposal_type": "AUC",
+    "premium": "10400000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 9007",
+        "address": "MOUNT NICHOLSON ROAD, THE PEAK, HONG KONG",
+        "user": "R3",
+        "area_sqm": "23312.00"
+      }
+    ]
+  },
+  {
+    "date": "2010-08-17",
+    "disposal_type": "AUC",
+    "premium": "4100000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11125",
+        "address": "204 ARGYLE STREET, KOWLOON",
+        "user": "R2",
+        "area_sqm": "7326.00"
+      }
+    ]
+  },
+  {
+    "date": "2010-08-17",
+    "disposal_type": "AUC",
+    "premium": "3510000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "KIL 11120",
+        "address": "HUNG HOM BAY RECLAMATION SITE D1, JUNCTION OF OI KING STREET AND HUNG LUEN ROAD, KOWLOON",
+        "user": "R2",
+        "area_sqm": "7551.00"
+      }
+    ]
+  },
+  {
+    "date": "2010-08-31",
+    "disposal_type": "AUC",
+    "premium": "1285000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6306",
+        "address": "1 EDE ROAD, KOWLOON TONG, KOWLOON",
+        "user": "R3",
+        "area_sqm": "2399.00"
+      }
+    ]
+  },
+  {
+    "date": "2010-09-29",
+    "disposal_type": "AUC",
+    "premium": "459000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "FSSTL 202",
+        "address": "JUNCTION OF FAN LENG LAU ROAD, WO MUK ROAD AND LUEN HING STREET, LUEN WO HUI, FANLING, NEW TERRITORIES",
+        "user": "R1",
+        "area_sqm": "2560.00"
+      }
+    ]
+  },
+  {
+    "date": "2010-10-12",
+    "disposal_type": "AUC",
+    "premium": "1630000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6423",
+        "address": "3 AND 5 EDE ROAD, KOWLOON TONG, KOWLOON",
+        "user": "R3",
+        "area_sqm": "2808.00"
+      }
+    ]
+  },
+  {
+    "date": "2010-10-20",
+    "disposal_type": "TEN",
+    "premium": "816000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "STTL 433",
+        "address": "JUNCTION OF ON YIU STREET, ON KWAN STREET AND ON LAI STREET, SHEK MUN, SHA TIN, NEW TERRITORIES",
+        "user": "BUSINESS",
+        "area_sqm": "8533.00"
+      }
+    ]
+  },
+  {
+    "date": "2010-11-03",
+    "disposal_type": "AUC",
+    "premium": "2170000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "NKIL 6493",
+        "address": "INVERNESS ROAD, KOWLOON TONG, KOWLOON",
+        "user": "R3",
+        "area_sqm": "7046.00"
+      }
+    ]
+  },
+  {
+    "date": "2010-12-14",
+    "disposal_type": "TEN",
+    "premium": "220860000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "IL 9025",
+        "address": "WONG NAI CHUNG GAP ROAD, HONG KONG",
+        "user": "PFS",
+        "area_sqm": "430.30"
+      },
+      {
+        "lot_no": "IL 9029",
+        "address": "VICTORIA ROAD, HONG KONG",
+        "user": "PFS",
+        "area_sqm": "340.10"
+      }
+    ]
+  },
+  {
+    "date": "2010-12-15",
+    "disposal_type": "TEN",
+    "premium": "1150000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "TYTL 180",
+        "address": "TSING YI HONG WAN ROAD, TSING YI, NEW TERRITORIES",
+        "user": "LOGISTICS DEVELOPMENT PURPOSES",
+        "area_sqm": "24000.00"
+      }
+    ]
+  },
+  {
+    "date": "2011-03-07",
+    "disposal_type": "TEN",
+    "premium": "2410000000",
+    "purchaser": null,
+    "location": [
+      {
+        "lot_no": "YLTL 518",
+        "address": "YUEN LONG ON NING ROAD, TAI KIU ROAD, YUEN LONG ON LOK ROAD, YUEN LONG, NEW TERRITORIES",
+        "user": "R1",
+        "area_sqm": "12340.00"
+      }
+    ]
+  }
+]
