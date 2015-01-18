@@ -1,5 +1,4 @@
 {
-  /* Standard Data Package format. For more info see: http://dataprotocols.org/data-packages/ */
   "name" : "hk-govt-land-sales",
   "title" : "Hong Kong Government Land Sales",
   "description" : "A dataset of Hong Kong Government land sales",
